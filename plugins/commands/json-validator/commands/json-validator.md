@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge JSON validator with schema validation, formatting, JSONPath queries, diff comparison, and comprehensive error reporting.
+description: DevsForge JSON validator with schema validation, formatting, JSONPath queries, diff comparison, and comprehensive error reporting.
 ---
 
-# ClaudeForge JSON Validator
+# DevsForge JSON Validator
 
-ClaudeForge intelligent JSON validation and manipulation system that validates JSON against schemas, formats and prettifies JSON, performs JSONPath queries, compares JSON structures, and provides detailed error reporting for robust data handling.
+DevsForge intelligent JSON validation and manipulation system that validates JSON against schemas, formats and prettifies JSON, performs JSONPath queries, compares JSON structures, and provides detailed error reporting for robust data handling.
 
 ## Purpose
 
@@ -503,4 +503,4 @@ program.parse();
 
 ---
 
-**ClaudeForge JSON Validator** - Enterprise-grade JSON validation, formatting, querying, and comparison with comprehensive schema support and detailed error reporting.
+**DevsForge JSON Validator** - Enterprise-grade JSON validation, formatting, querying, and comparison with comprehensive schema support and detailed error reporting.

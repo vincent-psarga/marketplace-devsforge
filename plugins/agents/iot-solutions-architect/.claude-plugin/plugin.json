@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Enterprise IoT Solutions Architect for device management, edge computing, and industrial IoT",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/iot-solutions-architect",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/iot-solutions-architect",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent",
     "iot",
     "mqtt",

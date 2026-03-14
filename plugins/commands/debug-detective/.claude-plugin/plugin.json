@@ -3,12 +3,12 @@
   "description": "Systematically debug issues with step-by-step troubleshooting approaches.",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/debug-detective",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/debug-detective",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "debugging"
   ]
 }

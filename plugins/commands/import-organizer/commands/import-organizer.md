@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge import organizer with automatic sorting, grouping, unused import detection, and ESLint integration for clean code.
+description: DevsForge import organizer with automatic sorting, grouping, unused import detection, and ESLint integration for clean code.
 ---
 
-# ClaudeForge Import Organizer
+# DevsForge Import Organizer
 
-ClaudeForge intelligent import organization system that automatically sorts, groups, and optimizes import statements across JavaScript, TypeScript, Python, and other languages, removing unused imports and maintaining consistent code style throughout your codebase.
+DevsForge intelligent import organization system that automatically sorts, groups, and optimizes import statements across JavaScript, TypeScript, Python, and other languages, removing unused imports and maintaining consistent code style throughout your codebase.
 
 ## Purpose
 
@@ -751,4 +751,4 @@ module.exports = {
 
 ---
 
-**ClaudeForge Import Organizer** - Enterprise-grade import management with intelligent sorting, grouping, unused import detection, and seamless ESLint integration for cleaner, more maintainable codebases.
+**DevsForge Import Organizer** - Enterprise-grade import management with intelligent sorting, grouping, unused import detection, and seamless ESLint integration for cleaner, more maintainable codebases.

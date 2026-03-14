@@ -3,12 +3,12 @@
   "description": "Use this agent when preparing app store listings, researching keywords, optimizing app metadata, improving conversion rates, or analyzing app store performance. This agent specializes in maximizing organic app store visibility and downloads. Examples:\\n\\n<example>\\nContext: Preparing for app launch",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/mobile-optimization-expert",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/mobile-optimization-expert",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent"
   ],
   "agents": "./agents/app-store-optimizer.md"

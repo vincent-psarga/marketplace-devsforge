@@ -1,10 +1,10 @@
 {
   "name": "regex-master",
   "version": "1.0.0",
-  "description": "ClaudeForge regex pattern specialist for creating and optimizing regular expressions",
+  "description": "DevsForge regex pattern specialist for creating and optimizing regular expressions",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
   "agents": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "agent"
   ],
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/agents/regex-master"
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/agents/regex-master"
 }

@@ -2,7 +2,7 @@
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
 description: Comprehensive CI/CD pipeline generation, optimization, and automation for enhanced deployment efficiency and development workflow excellence.
 
-author: ClaudeForge Community
+author: DevsForge Community
 version: 1.0.0
 ---
 
@@ -17,7 +17,7 @@ Transform CI/CD from operational overhead into strategic business value creation
 
 ### Phase 1: Pipeline Architecture Assessment
 ```bash
-# ClaudeForge CI/CD Analysis Engine
+# DevsForge CI/CD Analysis Engine
 project_analysis=$1
 pipeline_requirements=$(assess_development_workflow $project_analysis)
 
@@ -35,8 +35,8 @@ team_workflow=(analyze_team_collaboration $pipeline_requirements)
 
 #### GitHub Actions Implementation
 ```yaml
-# ClaudeForge Optimized GitHub Actions Workflow
-name: ClaudeForge Enterprise Pipeline
+# DevsForge Optimized GitHub Actions Workflow
+name: DevsForge Enterprise Pipeline
 on:
   push:
     branches: [main, develop]
@@ -76,13 +76,13 @@ jobs:
     steps:
       - name: Deploy to Production
         run: |
-          # ClaudeForge deployment automation
+          # DevsForge deployment automation
           deploy-to-production --config=production.yml
 ```
 
 #### GitLab CI/CD Implementation
 ```yaml
-# ClaudeForge Optimized GitLab CI/CD Pipeline
+# DevsForge Optimized GitLab CI/CD Pipeline
 stages:
   - validate
   - test
@@ -133,7 +133,7 @@ production-deployment:
 
 #### Multi-Environment Deployment Strategy
 ```bash
-# ClaudeForge Environment Management
+# DevsForge Environment Management
 environments=("development" "staging" "production")
 
 for env in "${environments[@]}"; do
@@ -156,7 +156,7 @@ done
 
 #### Automated Testing Integration
 ```yaml
-# ClaudeForge Testing Automation Matrix
+# DevsForge Testing Automation Matrix
 testing-matrix:
   parallel:
     matrix:
@@ -175,7 +175,7 @@ testing-matrix:
 
 #### Security Gates Implementation
 ```yaml
-# ClaudeForge Security Pipeline
+# DevsForge Security Pipeline
 security-gates:
   stage: security
   script:
@@ -189,7 +189,7 @@ security-gates:
 
 #### Compliance Automation
 ```yaml
-# ClaudeForge Compliance Pipeline
+# DevsForge Compliance Pipeline
 compliance-checks:
   stage: validate
   script:
@@ -206,7 +206,7 @@ compliance-checks:
 
 #### Pipeline Performance Optimization
 ```yaml
-# ClaudeForge Performance Optimization
+# DevsForge Performance Optimization
 cache-optimization:
   cache:
     key:
@@ -279,7 +279,7 @@ parallel-execution:
 
 ### Notification & Alerting
 ```yaml
-# ClaudeForge Notification Configuration
+# DevsForge Notification Configuration
 notifications:
   slack:
     webhook: $SLACK_WEBHOOK

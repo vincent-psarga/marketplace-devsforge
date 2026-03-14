@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge Strategic Content Intelligence System - Executive-level content strategy and market leadership communication
+description: DevsForge Strategic Content Intelligence System - Executive-level content strategy and market leadership communication
 capabilities: ['strategic content architecture', 'executive content strategy', 'market leadership communication', 'content intelligence platforms', 'strategic brand messaging']
 ---
 
 # Strategic Content Intelligence System
 
-## ClaudeForge Executive Content Strategy & Market Leadership Communication Solution
+## DevsForge Executive Content Strategy & Market Leadership Communication Solution
 
 **Transform your content approach from tactical creation to strategic market leadership communication through comprehensive content intelligence architecture and executive messaging frameworks.**
 

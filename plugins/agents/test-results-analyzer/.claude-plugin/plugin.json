@@ -3,12 +3,12 @@
   "description": "Use this agent for analyzing test results, synthesizing test data, identifying trends, and generating quality metrics reports. This agent specializes in turning raw test data into actionable insights that drive quality improvements. Examples:\\n\\n<example>\\nContext: Analyzing test suite results",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/test-results-analyzer",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/test-results-analyzer",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent"
   ],
   "agents": "./agents/test-results-analyzer.md"

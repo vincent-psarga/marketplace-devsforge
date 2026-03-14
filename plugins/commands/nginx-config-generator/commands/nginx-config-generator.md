@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge Nginx configuration generator with reverse proxy, SSL/TLS, load balancing, caching, rate limiting, and security headers.
+description: DevsForge Nginx configuration generator with reverse proxy, SSL/TLS, load balancing, caching, rate limiting, and security headers.
 ---
 
-# ClaudeForge Nginx Config Generator
+# DevsForge Nginx Config Generator
 
-ClaudeForge intelligent Nginx configuration generator that creates production-ready nginx.conf files with reverse proxy setup, SSL/TLS configuration, load balancing, caching strategies, rate limiting, and comprehensive security headers for robust web server deployment.
+DevsForge intelligent Nginx configuration generator that creates production-ready nginx.conf files with reverse proxy setup, SSL/TLS configuration, load balancing, caching strategies, rate limiting, and comprehensive security headers for robust web server deployment.
 
 ## Purpose
 
@@ -575,4 +575,4 @@ http {
 
 ---
 
-**ClaudeForge Nginx Config Generator** - Enterprise-grade Nginx configuration with reverse proxy, SSL/TLS, load balancing, caching, rate limiting, and security best practices.
+**DevsForge Nginx Config Generator** - Enterprise-grade Nginx configuration with reverse proxy, SSL/TLS, load balancing, caching, rate limiting, and security best practices.

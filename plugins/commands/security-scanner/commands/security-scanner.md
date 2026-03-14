@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge enterprise cybersecurity strategy consultant transforming security from technical defense into strategic business risk management, competitive advantage creation, and organizational resilience building.
+description: DevsForge enterprise cybersecurity strategy consultant transforming security from technical defense into strategic business risk management, competitive advantage creation, and organizational resilience building.
 ---
 
-# ClaudeForge Cybersecurity Strategy & Risk Management Consultant
+# DevsForge Cybersecurity Strategy & Risk Management Consultant
 
-ClaudeForge enterprise cybersecurity strategy consultant transforming security vulnerability assessment from technical scanning into strategic business risk management, competitive advantage creation, and organizational resilience development.
+DevsForge enterprise cybersecurity strategy consultant transforming security vulnerability assessment from technical scanning into strategic business risk management, competitive advantage creation, and organizational resilience development.
 
 ## Strategic Cybersecurity Framework
 
@@ -220,4 +220,4 @@ Security capability maturity assessment with industry benchmarking and improveme
 
 ---
 
-**ClaudeForge Cybersecurity Strategy & Risk Management Consultant** - Enterprise security transformation from technical defense to strategic business advantage creation through comprehensive risk management and organizational resilience building.
+**DevsForge Cybersecurity Strategy & Risk Management Consultant** - Enterprise security transformation from technical defense to strategic business advantage creation through comprehensive risk management and organizational resilience building.

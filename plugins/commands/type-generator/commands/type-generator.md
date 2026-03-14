@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge TypeScript type generator from JSON data, API responses, with quicktype integration and Zod schema generation.
+description: DevsForge TypeScript type generator from JSON data, API responses, with quicktype integration and Zod schema generation.
 ---
 
-# ClaudeForge Type Generator
+# DevsForge Type Generator
 
-ClaudeForge intelligent TypeScript type generator that creates type definitions from JSON data, API responses, database schemas, and other sources, with support for quicktype, JSON Schema, Zod schemas, and runtime validation.
+DevsForge intelligent TypeScript type generator that creates type definitions from JSON data, API responses, database schemas, and other sources, with support for quicktype, JSON Schema, Zod schemas, and runtime validation.
 
 ## Purpose
 
@@ -614,4 +614,4 @@ class APITypeGenerator {
 
 ---
 
-**ClaudeForge Type Generator** - Enterprise-grade TypeScript type generation from JSON, APIs, and schemas with quicktype integration, Zod schema support, and intelligent type inference for type-safe development.
+**DevsForge Type Generator** - Enterprise-grade TypeScript type generation from JSON, APIs, and schemas with quicktype integration, Zod schema support, and intelligent type inference for type-safe development.

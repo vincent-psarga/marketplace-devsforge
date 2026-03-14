@@ -1,7 +1,7 @@
 ---
 description: this is to analyze the PRs and solve the requested changes in them
 
-author: ClaudeForge Community
+author: DevsForge Community
 version: 1.0.0
 ---
 

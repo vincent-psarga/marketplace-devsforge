@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "GraphQL API design, optimization, and implementation expert for scalable API architectures",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
   "agents": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "agent"
   ],
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/agents/graphql-specialist"
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/agents/graphql-specialist"
 }

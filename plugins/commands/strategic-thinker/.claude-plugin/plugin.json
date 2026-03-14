@@ -1,14 +1,14 @@
 {
   "name": "strategic-thinker",
-  "description": "ClaudeForge Enterprise Strategic Thinking Architect delivering comprehensive multi-agent coordination methodologies, systematic problem-solving frameworks, and collaborative intelligence optimization",
+  "description": "DevsForge Enterprise Strategic Thinking Architect delivering comprehensive multi-agent coordination methodologies, systematic problem-solving frameworks, and collaborative intelligence optimization",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/commands/strategic-thinker",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/commands/strategic-thinker",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "plan",
     "explore",
     "refactoring",

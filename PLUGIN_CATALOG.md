@@ -1,4 +1,4 @@
-# ClaudeForge Marketplace - Complete Plugin Catalog v1.1
+# DevsForge Marketplace - Complete Plugin Catalog v1.1
 
 ## New in v1.1: Practical Development Plugins (49 New Plugins)
 
@@ -406,55 +406,55 @@ Complete DevOps automation
 ### Install All New v1.1 Plugins
 ```bash
 # Practical development agents
-/plugin install blockchain-architect@claudeforge
-/plugin install database-expert@claudeforge
-/plugin install docker-specialist@claudeforge
-/plugin install git-workflow-expert@claudeforge
-/plugin install rest-api-designer@claudeforge
-/plugin install cache-strategist@claudeforge
-/plugin install authentication-specialist@claudeforge
-/plugin install error-handler@claudeforge
-/plugin install form-validation-expert@claudeforge
-/plugin install file-upload-specialist@claudeforge
-/plugin install rate-limiter@claudeforge
-/plugin install webhook-integrator@claudeforge
-/plugin install graphql-specialist@claudeforge
-/plugin install microservices-architect@claudeforge
-/plugin install serverless-engineer@claudeforge
-/plugin install edge-computing-specialist@claudeforge
-/plugin install game-dev-architect@claudeforge
+/plugin install blockchain-architect@devsforge
+/plugin install database-expert@devsforge
+/plugin install docker-specialist@devsforge
+/plugin install git-workflow-expert@devsforge
+/plugin install rest-api-designer@devsforge
+/plugin install cache-strategist@devsforge
+/plugin install authentication-specialist@devsforge
+/plugin install error-handler@devsforge
+/plugin install form-validation-expert@devsforge
+/plugin install file-upload-specialist@devsforge
+/plugin install rate-limiter@devsforge
+/plugin install webhook-integrator@devsforge
+/plugin install graphql-specialist@devsforge
+/plugin install microservices-architect@devsforge
+/plugin install serverless-engineer@devsforge
+/plugin install edge-computing-specialist@devsforge
+/plugin install game-dev-architect@devsforge
 
 # Practical development commands
-/plugin install env-validator@claudeforge
-/plugin install import-organizer@claudeforge
-/plugin install unused-code-finder@claudeforge
-/plugin install console-cleaner@claudeforge
-/plugin install type-generator@claudeforge
-/plugin install mock-data-generator@claudeforge
-/plugin install sql-formatter@claudeforge
-/plugin install json-validator@claudeforge
-/plugin install docker-compose-generator@claudeforge
-/plugin install nginx-config-generator@claudeforge
+/plugin install env-validator@devsforge
+/plugin install import-organizer@devsforge
+/plugin install unused-code-finder@devsforge
+/plugin install console-cleaner@devsforge
+/plugin install type-generator@devsforge
+/plugin install mock-data-generator@devsforge
+/plugin install sql-formatter@devsforge
+/plugin install json-validator@devsforge
+/plugin install docker-compose-generator@devsforge
+/plugin install nginx-config-generator@devsforge
 ```
 
 ### Most Popular Plugins
 ```bash
 # Essential development tools
-/plugin install database-expert@claudeforge
-/plugin install docker-specialist@claudeforge
-/plugin install git-workflow-expert@claudeforge
-/plugin install rest-api-designer@claudeforge
-/plugin install authentication-specialist@claudeforge
+/plugin install database-expert@devsforge
+/plugin install docker-specialist@devsforge
+/plugin install git-workflow-expert@devsforge
+/plugin install rest-api-designer@devsforge
+/plugin install authentication-specialist@devsforge
 
 # Code quality and cleanup
-/plugin install import-organizer@claudeforge
-/plugin install unused-code-finder@claudeforge
-/plugin install console-cleaner@claudeforge
-/plugin install env-validator@claudeforge
+/plugin install import-organizer@devsforge
+/plugin install unused-code-finder@devsforge
+/plugin install console-cleaner@devsforge
+/plugin install env-validator@devsforge
 
 # Testing and data
-/plugin install mock-data-generator@claudeforge
-/plugin install type-generator@claudeforge
+/plugin install mock-data-generator@devsforge
+/plugin install type-generator@devsforge
 ```
 
 ---

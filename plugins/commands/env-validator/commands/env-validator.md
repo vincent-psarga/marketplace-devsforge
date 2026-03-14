@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge environment file validator with schema validation, type checking, required variables verification, and .env.example generation.
+description: DevsForge environment file validator with schema validation, type checking, required variables verification, and .env.example generation.
 ---
 
-# ClaudeForge Environment File Validator
+# DevsForge Environment File Validator
 
-ClaudeForge intelligent environment file validation system that ensures configuration completeness, validates variable formats, checks for missing or misconfigured environment variables, and maintains synchronized .env.example templates for team collaboration.
+DevsForge intelligent environment file validation system that ensures configuration completeness, validates variable formats, checks for missing or misconfigured environment variables, and maintains synchronized .env.example templates for team collaboration.
 
 ## Purpose
 
@@ -734,4 +734,4 @@ console.log('\n✅ Generated .env.example file');
 
 ---
 
-**ClaudeForge Environment File Validator** - Enterprise-grade environment configuration validation with comprehensive type checking, security scanning, and automated template generation for reliable application deployment.
+**DevsForge Environment File Validator** - Enterprise-grade environment configuration validation with comprehensive type checking, security scanning, and automated template generation for reliable application deployment.

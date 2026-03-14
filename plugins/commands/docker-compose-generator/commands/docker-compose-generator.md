@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge Docker Compose generator with service templates for PostgreSQL, Redis, MongoDB, MySQL, environment variables, networking, and volumes.
+description: DevsForge Docker Compose generator with service templates for PostgreSQL, Redis, MongoDB, MySQL, environment variables, networking, and volumes.
 ---
 
-# ClaudeForge Docker Compose Generator
+# DevsForge Docker Compose Generator
 
-ClaudeForge intelligent Docker Compose configuration generator that creates production-ready docker-compose.yml files with popular service templates, environment variables, networking, volumes, health checks, and best practices for containerized applications.
+DevsForge intelligent Docker Compose configuration generator that creates production-ready docker-compose.yml files with popular service templates, environment variables, networking, volumes, health checks, and best practices for containerized applications.
 
 ## Purpose
 
@@ -583,4 +583,4 @@ volumes:
 
 ---
 
-**ClaudeForge Docker Compose Generator** - Enterprise-grade Docker Compose configuration generation with service templates, best practices, and production-ready settings.
+**DevsForge Docker Compose Generator** - Enterprise-grade Docker Compose configuration generation with service templates, best practices, and production-ready settings.

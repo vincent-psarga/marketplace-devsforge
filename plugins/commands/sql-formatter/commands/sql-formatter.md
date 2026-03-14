@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge SQL query formatter with beautification, syntax highlighting, optimization hints, and multiple dialect support.
+description: DevsForge SQL query formatter with beautification, syntax highlighting, optimization hints, and multiple dialect support.
 ---
 
-# ClaudeForge SQL Formatter
+# DevsForge SQL Formatter
 
-ClaudeForge intelligent SQL query formatting system that beautifies SQL queries, applies consistent styling, provides syntax highlighting, and offers optimization hints for better query performance and readability.
+DevsForge intelligent SQL query formatting system that beautifies SQL queries, applies consistent styling, provides syntax highlighting, and offers optimization hints for better query performance and readability.
 
 ## Purpose
 
@@ -304,4 +304,4 @@ program.parse();
 
 ---
 
-**ClaudeForge SQL Formatter** - Enterprise-grade SQL query formatting with beautification, optimization hints, multi-dialect support, and best practices for maintainable database code.
+**DevsForge SQL Formatter** - Enterprise-grade SQL query formatting with beautification, optimization hints, multi-dialect support, and best practices for maintainable database code.

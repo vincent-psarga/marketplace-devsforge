@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge bundle size analysis and optimization specialist for webpack, rollup, and modern build tools.
+description: DevsForge bundle size analysis and optimization specialist for webpack, rollup, and modern build tools.
 ---
 
-# ClaudeForge Bundle Analyzer
+# DevsForge Bundle Analyzer
 
-ClaudeForge intelligent bundle analysis system that identifies, analyzes, and optimizes JavaScript bundle sizes with comprehensive visualization, tree shaking recommendations, and automated code splitting strategies.
+DevsForge intelligent bundle analysis system that identifies, analyzes, and optimizes JavaScript bundle sizes with comprehensive visualization, tree shaking recommendations, and automated code splitting strategies.
 
 ## Purpose
 
@@ -473,4 +473,4 @@ Initial bundle exceeds recommended 400 KB limit
 
 ---
 
-**ClaudeForge Bundle Analyzer** - Intelligent bundle size optimization with comprehensive analysis, actionable recommendations, and automated performance monitoring.
+**DevsForge Bundle Analyzer** - Intelligent bundle size optimization with comprehensive analysis, actionable recommendations, and automated performance monitoring.

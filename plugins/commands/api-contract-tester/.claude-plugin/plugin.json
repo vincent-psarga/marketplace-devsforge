@@ -1,14 +1,14 @@
 {
   "name": "api-contract-tester",
-  "description": "ClaudeForge Enterprise API Contract Testing Architect delivering comprehensive consumer-driven contract testing methodologies, schema validation excellence, and microservice integration verification that transforms API reliability from manual testing into intelligent automation and compatibility assurance",
+  "description": "DevsForge Enterprise API Contract Testing Architect delivering comprehensive consumer-driven contract testing methodologies, schema validation excellence, and microservice integration verification that transforms API reliability from manual testing into intelligent automation and compatibility assurance",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/api-contract-tester",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/api-contract-tester",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "development",
     "testing",
     "api",

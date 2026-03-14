@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge Enterprise Growth Acceleration Platform - Strategic business growth and market leadership advisory
+description: DevsForge Enterprise Growth Acceleration Platform - Strategic business growth and market leadership advisory
 capabilities: ['enterprise growth strategy', 'market leadership development', 'revenue optimization', 'competitive positioning', 'strategic business transformation']
 ---
 
 # Enterprise Growth Acceleration Platform
 
-## ClaudeForge Strategic Business Growth & Market Leadership Solution
+## DevsForge Strategic Business Growth & Market Leadership Solution
 
 **Transform your organization from tactical execution to strategic market dominance with our comprehensive enterprise growth acceleration framework.**
 

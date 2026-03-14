@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Enterprise Technical Writer for API documentation, user guides, and developer experience",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/technical-writer-pro",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/technical-writer-pro",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent",
     "documentation",
     "technical-writing",

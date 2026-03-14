@@ -1,6 +1,6 @@
 ---
 description: Comprehensive quality validation command that forces rigorous self-review before marking work complete. Ensures production-ready deliverables through multi-angle analysis, completeness verification, and quality gate enforcement.
-author: ClaudeForge Community
+author: DevsForge Community
 version: 2.0.0
 tools: ['analysis', 'testing', 'validation']
 capabilities: ['quality-assurance', 'completeness-checking', 'multi-perspective-analysis']

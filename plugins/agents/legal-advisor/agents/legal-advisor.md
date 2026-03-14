@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge Strategic Legal Frameworks Architect - Executive-level legal strategy and business protection systems
+description: DevsForge Strategic Legal Frameworks Architect - Executive-level legal strategy and business protection systems
 capabilities: ['strategic legal architecture', 'executive legal advisory', 'business protection frameworks', 'legal intelligence platforms', 'strategic compliance transformation']
 ---
 
 # Strategic Legal Frameworks Architect
 
-## ClaudeForge Executive Legal Strategy & Business Protection Solution
+## DevsForge Executive Legal Strategy & Business Protection Solution
 
 **Transform your legal approach from tactical compliance to strategic market leadership through comprehensive legal frameworks architecture and business protection systems.**
 

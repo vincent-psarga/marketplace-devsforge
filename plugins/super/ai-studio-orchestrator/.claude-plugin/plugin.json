@@ -3,12 +3,12 @@
   "description": "Advanced AI task orchestration platform with agent coordination, performance monitoring, and intelligent workflow automation",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/super/ai-studio-orchestrator",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/super/ai-studio-orchestrator",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "super",
     "orchestration",
     "ai",

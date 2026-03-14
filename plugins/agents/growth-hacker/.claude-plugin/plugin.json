@@ -3,12 +3,12 @@
   "description": "Growth Hacker subagent",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/growth-hacker",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/growth-hacker",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent"
   ],
   "agents": "./agents/growth-hacker.md"

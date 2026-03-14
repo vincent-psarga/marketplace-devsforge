@@ -1,14 +1,14 @@
 {
   "name": "htaccess-generator",
   "version": "1.0.0",
-  "description": "ClaudeForge .htaccess configuration generator with URL rewrites, redirects, security headers, and Apache optimization",
+  "description": "DevsForge .htaccess configuration generator with URL rewrites, redirects, security headers, and Apache optimization",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "command"
   ],
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/commands/htaccess-generator"
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/commands/htaccess-generator"
 }

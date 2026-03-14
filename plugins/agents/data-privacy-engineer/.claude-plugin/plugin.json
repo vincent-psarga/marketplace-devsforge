@@ -3,12 +3,12 @@
   "description": "Use this agent when you need to implement data privacy engineering, GDPR compliance, data protection frameworks, and privacy-by-design principles for B2B applications. This agent specializes in privacy engineering, data minimization, consent management, and global privacy regulation compliance for enterprise platforms. Examples:",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/data-privacy-engineer",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/data-privacy-engineer",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent"
   ],
   "agents": "./agents/data-privacy-engineer.md"

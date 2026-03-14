@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge automated changelog generation with conventional commits, semantic versioning, and release notes.
+description: DevsForge automated changelog generation with conventional commits, semantic versioning, and release notes.
 ---
 
-# ClaudeForge Changelog Generator
+# DevsForge Changelog Generator
 
-ClaudeForge intelligent changelog and release notes generation system that automatically creates comprehensive, well-formatted changelogs from conventional commits, manages semantic versioning, and produces professional release documentation.
+DevsForge intelligent changelog and release notes generation system that automatically creates comprehensive, well-formatted changelogs from conventional commits, manages semantic versioning, and produces professional release documentation.
 
 ## Purpose
 
@@ -656,4 +656,4 @@ pnpm add {self.repo_name}@{version}
 
 ---
 
-**ClaudeForge Changelog Generator** - Enterprise-grade changelog automation with conventional commits, semantic versioning, and professional release documentation for modern software projects.
+**DevsForge Changelog Generator** - Enterprise-grade changelog automation with conventional commits, semantic versioning, and professional release documentation for modern software projects.

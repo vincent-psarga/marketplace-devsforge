@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Expert agent for webhook implementation, HMAC signature verification, retry logic with exponential backoff, idempotency, webhook security, and testing with ngrok",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "repository": "https://github.com/claudeforge/marketplace",
+  "repository": "https://github.com/devsforge/marketplace",
   "agents": "./agents/webhook-expert.md",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "agent",
     "webhooks",
     "integration",
@@ -19,5 +19,5 @@
     "idempotency",
     "typescript"
   ],
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/agents/webhook-integrator"
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/agents/webhook-integrator"
 }

@@ -2,7 +2,7 @@
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
 description: Comprehensive dependency management, vulnerability scanning, package updates, and license compliance analysis for enhanced security and performance optimization.
 
-author: ClaudeForge Community
+author: DevsForge Community
 version: 1.0.0
 ---
 
@@ -17,7 +17,7 @@ Transform dependency management from operational overhead into strategic securit
 
 ### Phase 1: Comprehensive Dependency Analysis
 ```bash
-# ClaudeForge Dependency Analysis Engine
+# DevsForge Dependency Analysis Engine
 project_path=$1
 dependency_context=$(comprehensive_dependency_assessment $project_path)
 
@@ -121,7 +121,7 @@ Testing Requirements:
 
 ### CI/CD Pipeline Integration
 ```yaml
-# ClaudeForge Dependency Management Pipeline
+# DevsForge Dependency Management Pipeline
 dependency_management:
   stage: security
   script:

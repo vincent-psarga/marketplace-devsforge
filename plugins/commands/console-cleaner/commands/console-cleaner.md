@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge console statement remover with selective preservation, ESLint rules, git hooks, and production-ready code cleanup.
+description: DevsForge console statement remover with selective preservation, ESLint rules, git hooks, and production-ready code cleanup.
 ---
 
-# ClaudeForge Console Cleaner
+# DevsForge Console Cleaner
 
-ClaudeForge intelligent console statement management system that removes debugging console.log statements before production deployment while preserving intentional logging, integrates with ESLint rules, and implements pre-commit hooks for automated code cleanup.
+DevsForge intelligent console statement management system that removes debugging console.log statements before production deployment while preserving intentional logging, integrates with ESLint rules, and implements pre-commit hooks for automated code cleanup.
 
 ## Purpose
 
@@ -593,4 +593,4 @@ module.exports = {
 
 ---
 
-**ClaudeForge Console Cleaner** - Enterprise-grade console statement management with intelligent removal, ESLint integration, git hooks, and production-ready code cleanup for cleaner, more performant applications.
+**DevsForge Console Cleaner** - Enterprise-grade console statement management with intelligent removal, ESLint integration, git hooks, and production-ready code cleanup for cleaner, more performant applications.

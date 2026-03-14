@@ -3,12 +3,12 @@
   "description": "Get comprehensive code reviews with suggestions for improvements, best practices, and potential issues.",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/code-review-assistant",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/code-review-assistant",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "code-review"
   ]
 }

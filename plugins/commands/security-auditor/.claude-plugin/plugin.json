@@ -3,12 +3,12 @@
   "description": "Perform security audit on codebase",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/security-auditor",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/security-auditor",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "code-review",
     "security"
   ]

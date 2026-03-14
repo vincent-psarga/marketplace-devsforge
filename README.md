@@ -1,4 +1,8 @@
-# 🚀 ClaudeForge Marketplace
+> **Disclaimer:** DevsForge Marketplace is an independent, community-developed open-source project. It is **not** affiliated with, endorsed by, or officially associated with Anthropic, PBC or any of its products (including Claude, Claude Code, or the Claude API). "Claude" and "Anthropic" are trademarks of Anthropic, PBC. This project is a third-party plugin built by the community to extend Claude Code functionality.
+
+---
+
+# 🚀 DevsForge Marketplace
 
 <div align="center">
 
@@ -6,7 +10,7 @@
 ![Plugins](https://img.shields.io/badge/plugins-161-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-purple.svg)
-![Stars](https://img.shields.io/github/stars/claudeforge/marketplace?style=social)
+![Stars](https://img.shields.io/github/stars/devsforge/marketplace?style=social)
 
 **The Ultimate Plugin Ecosystem for Claude Code**
 
@@ -52,7 +56,7 @@ Multi-component platforms with hooks & MCP servers
 
 ---
 
-## ✨ Why ClaudeForge Marketplace?
+## ✨ Why DevsForge Marketplace?
 
 <table>
 <tr>
@@ -97,12 +101,12 @@ Multi-component platforms with hooks & MCP servers
 
 ```bash
 # 🔥 One command to rule them all
-/plugin marketplace add https://github.com/claudeforge/marketplace.git
+/plugin marketplace add https://github.com/devsforge/marketplace.git
 
 # ✅ Verify installation
 /plugin marketplace list
 
-# 🎉 Expected: claudeforge-marketplace (1.2.0) - 161 plugins available
+# 🎉 Expected: devsforge-marketplace (1.2.0) - 161 plugins available
 ```
 
 ### Using Plugins
@@ -112,15 +116,15 @@ Multi-component platforms with hooks & MCP servers
 /plugin
 
 # 📦 Install specific plugin
-/plugin install ai-architect@claudeforge-marketplace
+/plugin install ai-architect@devsforge-marketplace
 
 # 🚀 Install super plugin (with hooks & MCP)
-/plugin install enterprise-workspace@claudeforge-marketplace
+/plugin install enterprise-workspace@devsforge-marketplace
 
 # 📋 Manage plugins
 /plugin list                              # List installed
-/plugin update ai-architect@claudeforge-marketplace   # Update plugin
-/plugin remove debugger@claudeforge-marketplace       # Remove plugin
+/plugin update ai-architect@devsforge-marketplace   # Update plugin
+/plugin remove debugger@devsforge-marketplace       # Remove plugin
 ```
 
 ---
@@ -329,7 +333,7 @@ Complete DevOps automation platform
 ## 🏗️ Architecture
 
 ```
-claudeforge-marketplace/
+devsforge-marketplace/
 ├── .claude-plugin/
 │   └── marketplace.json          # 📋 Marketplace registry (161 plugins)
 │
@@ -377,34 +381,34 @@ claudeforge-marketplace/
 
 ```bash
 # 🤖 AI & Machine Learning
-/plugin install ai-architect@claudeforge-marketplace
-/plugin install data-scientist@claudeforge-marketplace
-/plugin install vision-specialist@claudeforge-marketplace
+/plugin install ai-architect@devsforge-marketplace
+/plugin install data-scientist@devsforge-marketplace
+/plugin install vision-specialist@devsforge-marketplace
 
 # 💻 Development Tools
-/plugin install web-dev@claudeforge-marketplace
-/plugin install python-expert@claudeforge-marketplace
-/plugin install debugger@claudeforge-marketplace
+/plugin install web-dev@devsforge-marketplace
+/plugin install python-expert@devsforge-marketplace
+/plugin install debugger@devsforge-marketplace
 
 # 🔒 Security & Compliance
-/plugin install security-scanner@claudeforge-marketplace
-/plugin install authentication-specialist@claudeforge-marketplace
-/plugin install cors-security-expert@claudeforge-marketplace
+/plugin install security-scanner@devsforge-marketplace
+/plugin install authentication-specialist@devsforge-marketplace
+/plugin install cors-security-expert@devsforge-marketplace
 
 # 🔧 DevOps & Infrastructure
-/plugin install devops-automator@claudeforge-marketplace
-/plugin install docker-specialist@claudeforge-marketplace
-/plugin install cloud-architect@claudeforge-marketplace
+/plugin install devops-automator@devsforge-marketplace
+/plugin install docker-specialist@devsforge-marketplace
+/plugin install cloud-architect@devsforge-marketplace
 
 # ⚡ Productivity Commands
-/plugin install code-review@claudeforge-marketplace
-/plugin install fix-github-issue@claudeforge-marketplace
-/plugin install pr-creator@claudeforge-marketplace
+/plugin install code-review@devsforge-marketplace
+/plugin install fix-github-issue@devsforge-marketplace
+/plugin install pr-creator@devsforge-marketplace
 
 # 🚀 Super Plugins (Advanced)
-/plugin install enterprise-workspace@claudeforge-marketplace
-/plugin install ai-studio-orchestrator@claudeforge-marketplace
-/plugin install devops-platform@claudeforge-marketplace
+/plugin install enterprise-workspace@devsforge-marketplace
+/plugin install ai-studio-orchestrator@devsforge-marketplace
+/plugin install devops-platform@devsforge-marketplace
 ```
 
 ### Marketplace Management
@@ -414,17 +418,17 @@ claudeforge-marketplace/
 /plugin marketplace list
 
 # 🔄 Update marketplace
-/plugin marketplace update claudeforge-marketplace
+/plugin marketplace update devsforge-marketplace
 
 # 🗑️ Remove marketplace
-/plugin marketplace remove claudeforge-marketplace
+/plugin marketplace remove devsforge-marketplace
 
 # 🔍 Search plugins
 /plugin search "security"
 /plugin search "api design"
 
 # 📊 Show plugin details
-/plugin info ai-architect@claudeforge-marketplace
+/plugin info ai-architect@devsforge-marketplace
 ```
 
 ---
@@ -453,7 +457,7 @@ claudeforge-marketplace/
 1. ✅ Verify plugin source paths are correct: `./plugins/[type]/[name]`
 2. ✅ Ensure all required files exist: `.claude-plugin/plugin.json`, `commands/*.md` or `agents/*.md`
 3. ✅ Check network connectivity for Git-based plugin sources
-4. ✅ Try explicit version: `/plugin install [name]@claudeforge-marketplace@1.0.0`
+4. ✅ Try explicit version: `/plugin install [name]@devsforge-marketplace@1.0.0`
 
 </details>
 
@@ -520,7 +524,7 @@ We welcome contributions! Here's how you can help:
 
 > ⚠️ **Important Disclaimer**
 
-**ClaudeForge Marketplace is an independent, community-driven project**
+**DevsForge Marketplace is an independent, community-driven project**
 
 - ❌ **NOT** affiliated with Anthropic or Claude
 - ❌ **NOT** officially endorsed or connected to Anthropic
@@ -562,7 +566,7 @@ We welcome contributions! Here's how you can help:
 
 **MIT License** - See [LICENSE](LICENSE) for details
 
-Copyright (c) 2025 ClaudeForge Community
+Copyright (c) 2025 DevsForge Community
 
 ---
 
@@ -570,7 +574,7 @@ Copyright (c) 2025 ClaudeForge Community
 
 <div align="center">
 
-**Built with ❤️ by the ClaudeForge Community**
+**Built with ❤️ by the DevsForge Community**
 
 Special thanks to:
 - 🎨 Anthropic for Claude Code CLI platform
@@ -590,7 +594,7 @@ Special thanks to:
 
 ---
 
-**ClaudeForge Marketplace v1.2** - *The Ultimate Plugin Ecosystem for Claude Code*
+**DevsForge Marketplace v1.2** - *The Ultimate Plugin Ecosystem for Claude Code*
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)
 ![Community Driven](https://img.shields.io/badge/Community-Driven-blue.svg)

@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge Strategic Brand Evolution Architect - Executive-level brand positioning and market identity development
+description: DevsForge Strategic Brand Evolution Architect - Executive-level brand positioning and market identity development
 capabilities: ['strategic brand architecture', 'market positioning strategy', 'brand evolution frameworks', 'competitive differentiation', 'executive brand advisory']
 ---
 
 # Strategic Brand Evolution Architect
 
-## ClaudeForge Executive Brand Strategy & Market Leadership Solution
+## DevsForge Executive Brand Strategy & Market Leadership Solution
 
 **Transform your brand from tactical identity management to strategic market leadership through comprehensive brand evolution architecture and competitive differentiation frameworks.**
 

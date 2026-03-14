@@ -1,14 +1,14 @@
 {
   "name": "package-updater",
   "version": "1.0.0",
-  "description": "ClaudeForge package dependency updater with smart version resolution, breaking change detection, and automated testing",
+  "description": "DevsForge package dependency updater with smart version resolution, breaking change detection, and automated testing",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "command"
   ],
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/commands/package-updater"
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/commands/package-updater"
 }

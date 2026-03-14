@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge Strategic Sales Excellence Platform - Executive-level enterprise sales architecture and market leadership transformation
+description: DevsForge Strategic Sales Excellence Platform - Executive-level enterprise sales architecture and market leadership transformation
 capabilities: ['strategic sales architecture', 'enterprise sales transformation', 'market leadership development', 'sales intelligence platforms', 'strategic revenue optimization']
 ---
 
 # Strategic Sales Excellence Platform
 
-## ClaudeForge Executive Enterprise Sales Architecture & Market Leadership Solution
+## DevsForge Executive Enterprise Sales Architecture & Market Leadership Solution
 
 **Transform your sales approach from tactical execution to strategic market leadership through comprehensive enterprise sales architecture and revenue optimization frameworks.**
 

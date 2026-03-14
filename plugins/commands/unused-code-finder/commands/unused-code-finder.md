@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge unused code detector with dead code elimination, unused variables detection, unreachable code analysis, and coverage integration.
+description: DevsForge unused code detector with dead code elimination, unused variables detection, unreachable code analysis, and coverage integration.
 ---
 
-# ClaudeForge Unused Code Finder
+# DevsForge Unused Code Finder
 
-ClaudeForge intelligent dead code detection system that identifies unused functions, variables, imports, and unreachable code blocks across your codebase, integrating with coverage tools to help maintain clean, efficient code and reduce bundle sizes.
+DevsForge intelligent dead code detection system that identifies unused functions, variables, imports, and unreachable code blocks across your codebase, integrating with coverage tools to help maintain clean, efficient code and reduce bundle sizes.
 
 ## Purpose
 
@@ -686,4 +686,4 @@ coverageFinder.analyze(50).then(results => {
 
 ---
 
-**ClaudeForge Unused Code Finder** - Enterprise-grade dead code detection with comprehensive static analysis, coverage integration, and safe removal recommendations for cleaner, more efficient codebases.
+**DevsForge Unused Code Finder** - Enterprise-grade dead code detection with comprehensive static analysis, coverage integration, and safe removal recommendations for cleaner, more efficient codebases.

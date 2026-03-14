@@ -1,10 +1,10 @@
-# Contributing to ClaudeForge Marketplace
+# Contributing to DevsForge Marketplace
 
-Thank you for your interest in contributing to the ClaudeForge Marketplace! This document provides guidelines and information for contributors.
+Thank you for your interest in contributing to the DevsForge Marketplace! This document provides guidelines and information for contributors.
 
 ## 🎯 Our Mission
 
-ClaudeForge Marketplace aims to be the premier destination for high-quality, enterprise-grade plugins that extend Claude Code's capabilities. We believe in:
+DevsForge Marketplace aims to be the premier destination for high-quality, enterprise-grade plugins that extend Claude Code's capabilities. We believe in:
 
 - **Quality over Quantity**: Every plugin should be well-crafted and thoroughly tested
 - **Security First**: All plugins must follow security best practices
@@ -27,7 +27,7 @@ ClaudeForge Marketplace aims to be the premier destination for high-quality, ent
    ```bash
    # Fork the repository on GitHub
    # Clone your fork locally
-   git clone https://github.com/claudeforge/marketplace.git
+   git clone https://github.com/devsforge/marketplace.git
    cd marketplace
    ```
 
@@ -301,9 +301,9 @@ npm run lint-yaml
 - [Development Tools](https://github.com/features)
 
 ### Community
-- [ClaudeForge Discord](https://discord.gg/claudeforge)
-- [GitHub Discussions](https://github.com/claudeforge/marketplace/discussions)
-- [Community Forums](https://community.claudeforge.dev)
+- [DevsForge Discord](https://discord.gg/devsforge)
+- [GitHub Discussions](https://github.com/devsforge/marketplace/discussions)
+- [Community Forums](https://community.devsforge.dev)
 
 ## 🏆 Recognition
 
@@ -322,9 +322,9 @@ npm run lint-yaml
 ## 📞 Getting Help
 
 ### Support Channels
-- **GitHub Issues**: [Create an issue](https://github.com/claudeforge/marketplace/issues)
-- **Discord Community**: [Join our Discord](https://discord.gg/claudeforge)
-- **Email**: support@claudeforge.dev
+- **GitHub Issues**: [Create an issue](https://github.com/devsforge/marketplace/issues)
+- **Discord Community**: [Join our Discord](https://discord.gg/devsforge)
+- **Email**: support@devsforge.dev
 - **Documentation**: [Plugin Development Guide](docs/plugin-development.md)
 
 ### Common Questions
@@ -353,7 +353,7 @@ npm run lint-yaml
 
 ## 🎉 Thank You!
 
-Thank you for considering contributing to the ClaudeForge Marketplace! Your contributions help make Claude Code more powerful and useful for everyone.
+Thank you for considering contributing to the DevsForge Marketplace! Your contributions help make Claude Code more powerful and useful for everyone.
 
 Whether you're submitting your first plugin or you're an experienced contributor, we appreciate your time and effort.
 
@@ -365,8 +365,8 @@ Together, we're building something amazing! 🚀
 
 If you have any questions or need assistance with your contribution, don't hesitate to reach out:
 
-- **GitHub Issues**: [Create an issue](https://github.com/claudeforge/marketplace/issues)
-- **Discord**: [Join our community](https://discord.gg/claudeforge)
-- **Email**: support@claudeforge.dev
+- **GitHub Issues**: [Create an issue](https://github.com/devsforge/marketplace/issues)
+- **Discord**: [Join our community](https://discord.gg/devsforge)
+- **Email**: support@devsforge.dev
 
 We're here to help you succeed! 🤝

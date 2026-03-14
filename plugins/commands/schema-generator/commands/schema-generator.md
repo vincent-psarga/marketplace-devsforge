@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge database schema and migration generator for PostgreSQL, MySQL, MongoDB with ORM integration.
+description: DevsForge database schema and migration generator for PostgreSQL, MySQL, MongoDB with ORM integration.
 ---
 
-# ClaudeForge Schema Generator
+# DevsForge Schema Generator
 
-ClaudeForge intelligent database schema design and migration system that creates optimized, scalable database architectures with automated migration generation and comprehensive ORM integration across multiple database platforms.
+DevsForge intelligent database schema design and migration system that creates optimized, scalable database architectures with automated migration generation and comprehensive ORM integration across multiple database platforms.
 
 ## Purpose
 
@@ -461,4 +461,4 @@ ALTER TABLE "users" RENAME COLUMN "password_hash" TO "hashed_password";
 
 ---
 
-**ClaudeForge Schema Generator** - Enterprise-grade database schema design with intelligent automation, comprehensive ORM integration, and seamless migration management across all major database platforms.
+**DevsForge Schema Generator** - Enterprise-grade database schema design with intelligent automation, comprehensive ORM integration, and seamless migration management across all major database platforms.

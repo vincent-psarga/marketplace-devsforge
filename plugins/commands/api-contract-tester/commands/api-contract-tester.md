@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge API contract testing and validation with Pact, Postman, and consumer-driven contract strategies.
+description: DevsForge API contract testing and validation with Pact, Postman, and consumer-driven contract strategies.
 ---
 
-# ClaudeForge API Contract Tester
+# DevsForge API Contract Tester
 
-ClaudeForge intelligent API contract testing system that ensures API compatibility, validates contracts between consumers and providers, and maintains backward compatibility through comprehensive consumer-driven contract testing strategies.
+DevsForge intelligent API contract testing system that ensures API compatibility, validates contracts between consumers and providers, and maintains backward compatibility through comprehensive consumer-driven contract testing strategies.
 
 ## Purpose
 
@@ -552,4 +552,4 @@ for result in results:
 
 ---
 
-**ClaudeForge API Contract Tester** - Enterprise-grade API contract testing with consumer-driven strategies, comprehensive validation, and seamless CI/CD integration for reliable microservice architectures.
+**DevsForge API Contract Tester** - Enterprise-grade API contract testing with consumer-driven strategies, comprehensive validation, and seamless CI/CD integration for reliable microservice architectures.

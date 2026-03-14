@@ -3,12 +3,12 @@
   "description": "this is to analyze the PRs and solve the requested changes in them\n",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/pr-resolver",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/pr-resolver",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "code-review",
     "testing",
     "refactoring",

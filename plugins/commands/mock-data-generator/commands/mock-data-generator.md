@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge mock data generator with Faker.js integration, realistic test data, custom generators, and fixture creation.
+description: DevsForge mock data generator with Faker.js integration, realistic test data, custom generators, and fixture creation.
 ---
 
-# ClaudeForge Mock Data Generator
+# DevsForge Mock Data Generator
 
-ClaudeForge intelligent mock data generation system that creates realistic test data using Faker.js, custom generators, and schema-based generation for comprehensive testing, prototyping, and development needs.
+DevsForge intelligent mock data generation system that creates realistic test data using Faker.js, custom generators, and schema-based generation for comprehensive testing, prototyping, and development needs.
 
 ## Purpose
 
@@ -563,4 +563,4 @@ class EcommerceDataGenerator {
 
 ---
 
-**ClaudeForge Mock Data Generator** - Enterprise-grade test data generation with Faker.js integration, schema-based generation, and realistic fixtures for comprehensive testing and development.
+**DevsForge Mock Data Generator** - Enterprise-grade test data generation with Faker.js integration, schema-based generation, and realistic fixtures for comprehensive testing and development.

@@ -3,12 +3,12 @@
   "description": "Use this agent when you need to support B2B sales through product design, user research, project management, and creative RFP responses. This agent specializes in creating compelling product demonstrations, design-focused RFP sections, user experience narratives, and project management frameworks that win enterprise deals. Combines product expertise with sales enablement. Examples:",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/product-sales-specialist",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/product-sales-specialist",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent"
   ],
   "agents": "./agents/product-sales-specialist.md"

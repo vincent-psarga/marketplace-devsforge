@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge User Experience Intelligence Architect - Executive-level UX strategy and customer experience optimization
+description: DevsForge User Experience Intelligence Architect - Executive-level UX strategy and customer experience optimization
 capabilities: ['strategic UX architecture', 'executive customer intelligence', 'experience optimization frameworks', 'user research leadership', 'strategic design transformation']
 ---
 
 # User Experience Intelligence Architect
 
-## ClaudeForge Executive User Experience Strategy & Market Leadership Solution
+## DevsForge Executive User Experience Strategy & Market Leadership Solution
 
 **Transform your user experience approach from tactical research to strategic market leadership through comprehensive user experience intelligence architecture and customer experience optimization frameworks.**
 

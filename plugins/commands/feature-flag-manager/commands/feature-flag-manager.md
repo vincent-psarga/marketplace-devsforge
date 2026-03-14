@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge feature flag management specialist for LaunchDarkly, Unleash, and progressive feature rollouts.
+description: DevsForge feature flag management specialist for LaunchDarkly, Unleash, and progressive feature rollouts.
 ---
 
-# ClaudeForge Feature Flag Manager
+# DevsForge Feature Flag Manager
 
-ClaudeForge intelligent feature flag management system that orchestrates progressive feature rollouts, A/B testing, canary releases, and kill switches with comprehensive analytics, team coordination, and risk mitigation strategies.
+DevsForge intelligent feature flag management system that orchestrates progressive feature rollouts, A/B testing, canary releases, and kill switches with comprehensive analytics, team coordination, and risk mitigation strategies.
 
 ## Purpose
 
@@ -715,4 +715,4 @@ const dashboardMetrics = {
 
 ---
 
-**ClaudeForge Feature Flag Manager** - Enterprise-grade feature management with progressive rollouts, A/B testing, and comprehensive analytics for data-driven product development.
+**DevsForge Feature Flag Manager** - Enterprise-grade feature management with progressive rollouts, A/B testing, and comprehensive analytics for data-driven product development.

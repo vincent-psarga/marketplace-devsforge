@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Enterprise Localization Specialist for i18n/l10n, ICU formatting, and global market expansion",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/localization-specialist",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/localization-specialist",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent",
     "i18n",
     "l10n",

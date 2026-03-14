@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge emergency hotfix deployment specialist for critical production issues and rapid incident response.
+description: DevsForge emergency hotfix deployment specialist for critical production issues and rapid incident response.
 ---
 
-# ClaudeForge Hotfix Deployer
+# DevsForge Hotfix Deployer
 
-ClaudeForge intelligent hotfix deployment system that manages emergency production fixes with automated branching strategies, deployment workflows, rollback procedures, and comprehensive incident response protocols.
+DevsForge intelligent hotfix deployment system that manages emergency production fixes with automated branching strategies, deployment workflows, rollback procedures, and comprehensive incident response protocols.
 
 ## Purpose
 
@@ -666,4 +666,4 @@ groups:
 
 ---
 
-**ClaudeForge Hotfix Deployer** - Enterprise-grade emergency deployment system with automated workflows, comprehensive rollback procedures, and structured incident response for production stability.
+**DevsForge Hotfix Deployer** - Enterprise-grade emergency deployment system with automated workflows, comprehensive rollback procedures, and structured incident response for production stability.

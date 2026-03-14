@@ -3,12 +3,12 @@
   "description": "Complete workspace management platform with architecture governance, compliance tracking, and automated validation",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/super/enterprise-workspace",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/super/enterprise-workspace",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "super",
     "workspace",
     "enterprise",

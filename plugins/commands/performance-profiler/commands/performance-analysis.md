@@ -1,7 +1,7 @@
 ---
 description: Comprehensive application performance profiling, bottleneck identification, and optimization strategies for enhanced user experience and system efficiency.
 
-author: ClaudeForge Community
+author: DevsForge Community
 version: 1.0.0
 ---
 
@@ -16,7 +16,7 @@ Transform performance optimization from reactive troubleshooting into strategic 
 
 ### Phase 1: Performance Baseline Assessment
 ```bash
-# ClaudeForge Performance Analysis Engine
+# DevsForge Performance Analysis Engine
 application_target=$1
 performance_context=$(comprehensive_performance_assessment $application_target)
 
@@ -35,7 +35,7 @@ network_optimization=(analyze_network_performance $performance_context)
 
 #### Frontend Performance Analysis
 ```javascript
-// ClaudeForge Frontend Performance Suite
+// DevsForge Frontend Performance Suite
 const performanceProfiler = {
   // Core Web Vitals Analysis
   measureCoreWebVitals() {
@@ -73,7 +73,7 @@ const performanceProfiler = {
 
 #### Backend Performance Analysis
 ```python
-# ClaudeForge Backend Performance Profiler
+# DevsForge Backend Performance Profiler
 class BackendPerformanceAnalyzer:
     def __init__(self, application_context):
         self.context = application_context
@@ -104,7 +104,7 @@ class BackendPerformanceAnalyzer:
 
 #### Performance Bottleneck Detection
 ```bash
-# ClaudeForge Bottleneck Detection System
+# DevsForge Bottleneck Detection System
 detect_bottlenecks() {
     local performance_data=$1
 
@@ -135,7 +135,7 @@ detect_bottlenecks() {
 
 #### User Experience Impact Analysis
 ```javascript
-// ClaudeForge UX Performance Analyzer
+// DevsForge UX Performance Analyzer
 const uxPerformanceAnalyzer = {
   analyzeUserExperience() {
     return {
@@ -162,7 +162,7 @@ const uxPerformanceAnalyzer = {
 
 #### Frontend Optimization Strategies
 ```javascript
-// ClaudeForge Frontend Optimization Suite
+// DevsForge Frontend Optimization Suite
 const frontendOptimizer = {
   // Bundle Optimization
   optimizeBundleSize() {
@@ -201,7 +201,7 @@ const frontendOptimizer = {
 
 #### Backend Optimization Strategies
 ```python
-# ClaudeForge Backend Optimization Suite
+# DevsForge Backend Optimization Suite
 class BackendOptimizer:
     def optimize_database_performance(self):
         """Database performance optimization strategies"""
@@ -299,7 +299,7 @@ Step 3: Monitoring & Maintenance
 
 ### Real-time Performance Monitoring
 ```javascript
-// ClaudeForge Performance Monitoring Setup
+// DevsForge Performance Monitoring Setup
 const performanceMonitoring = {
   setupRealUserMonitoring() {
     return {
@@ -323,7 +323,7 @@ const performanceMonitoring = {
 
 ### Performance Alerting Configuration
 ```yaml
-# ClaudeForge Performance Alerting
+# DevsForge Performance Alerting
 performance_alerts:
   core_web_vitals:
     lcp_threshold: 2.5

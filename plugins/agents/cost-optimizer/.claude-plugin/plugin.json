@@ -1,10 +1,10 @@
 {
   "name": "cost-optimizer",
   "version": "1.0.0",
-  "description": "ClaudeForge cloud cost optimization specialist for analyzing and reducing infrastructure expenses",
+  "description": "DevsForge cloud cost optimization specialist for analyzing and reducing infrastructure expenses",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
   "agents": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "agent"
   ],
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/agents/cost-optimizer"
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/agents/cost-optimizer"
 }

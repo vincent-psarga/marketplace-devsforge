@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge code migration assistant for framework upgrades, version migrations, and codebase transformations.
+description: DevsForge code migration assistant for framework upgrades, version migrations, and codebase transformations.
 ---
 
-# ClaudeForge Migration Helper
+# DevsForge Migration Helper
 
-ClaudeForge intelligent migration system that automates complex framework upgrades, version migrations, and codebase transformations with comprehensive AST analysis, automated codemods, and risk-free migration strategies.
+DevsForge intelligent migration system that automates complex framework upgrades, version migrations, and codebase transformations with comprehensive AST analysis, automated codemods, and risk-free migration strategies.
 
 ## Purpose
 
@@ -620,4 +620,4 @@ jobs:
 
 ---
 
-**ClaudeForge Migration Helper** - Intelligent framework migration with automated codemods, comprehensive testing, and risk-free transformation strategies for modern development teams.
+**DevsForge Migration Helper** - Intelligent framework migration with automated codemods, comprehensive testing, and risk-free transformation strategies for modern development teams.

@@ -1,11 +1,11 @@
-# ClaudeForge Marketplace
+# DevsForge Marketplace
 
 ## Overview
 
-**ClaudeForge Marketplace** is the ultimate plugin ecosystem for Claude Code CLI, providing 161 enterprise-grade plugins including 93 AI agents, 65 commands, and 3 advanced super plugins. This community-driven marketplace transforms Claude Code from a powerful AI coding assistant into a comprehensive development platform with specialized capabilities across all aspects of software development, DevOps, security, and business operations.
+**DevsForge Marketplace** is the ultimate plugin ecosystem for Claude Code CLI, providing 161 enterprise-grade plugins including 93 AI agents, 65 commands, and 3 advanced super plugins. This community-driven marketplace transforms Claude Code from a powerful AI coding assistant into a comprehensive development platform with specialized capabilities across all aspects of software development, DevOps, security, and business operations.
 
 **Version**: 1.2.0
-**Repository**: https://github.com/claudeforge/marketplace
+**Repository**: https://github.com/devsforge/marketplace
 **License**: MIT
 **Status**: Production Ready
 
@@ -23,7 +23,7 @@
 ### Repository Structure
 
 ```
-claudeforge-marketplace/
+devsforge-marketplace/
 ├── .claude-plugin/
 │   └── marketplace.json          # Central marketplace registry (v1.2.0)
 │                                  # - 161 plugin definitions
@@ -180,15 +180,15 @@ Advanced multi-component platforms with hooks, MCP servers, and complex automati
 
 ### Installation Steps
 
-1. **Add ClaudeForge Marketplace**
+1. **Add DevsForge Marketplace**
 ```bash
-/plugin marketplace add https://github.com/claudeforge/marketplace.git
+/plugin marketplace add https://github.com/devsforge/marketplace.git
 ```
 
 2. **Verify Installation**
 ```bash
 /plugin marketplace list
-# Expected output: claudeforge-marketplace (1.2.0) - 161 plugins available
+# Expected output: devsforge-marketplace (1.2.0) - 161 plugins available
 ```
 
 3. **Install Plugins**
@@ -197,10 +197,10 @@ Advanced multi-component platforms with hooks, MCP servers, and complex automati
 /plugin
 
 # Install specific plugin
-/plugin install ai-architect@claudeforge-marketplace
+/plugin install ai-architect@devsforge-marketplace
 
 # Install super plugin (with hooks & MCP)
-/plugin install enterprise-workspace@claudeforge-marketplace
+/plugin install enterprise-workspace@devsforge-marketplace
 ```
 
 ### Marketplace Configuration
@@ -209,17 +209,17 @@ The marketplace is configured via `.claude-plugin/marketplace.json`:
 
 ```json
 {
-  "name": "claudeforge-marketplace",
+  "name": "devsforge-marketplace",
   "owner": {
-    "name": "ClaudeForge Community",
-    "email": "community@claudeforge.dev",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "email": "community@devsforge.dev",
+    "url": "https://github.com/devsforge/marketplace"
   },
   "metadata": {
-    "description": "ClaudeForge Plugin Marketplace - Premium enterprise-grade plugins for Claude Code",
+    "description": "DevsForge Plugin Marketplace - Premium enterprise-grade plugins for Claude Code",
     "version": "1.2.0",
-    "homepage": "https://github.com/claudeforge/marketplace",
-    "repository": "https://github.com/claudeforge/marketplace",
+    "homepage": "https://github.com/devsforge/marketplace",
+    "repository": "https://github.com/devsforge/marketplace",
     "pluginRoot": ".."
   },
   "plugins": [
@@ -242,20 +242,20 @@ The marketplace is configured via `.claude-plugin/marketplace.json`:
 /plugin list
 
 # Update specific plugin
-/plugin update ai-architect@claudeforge-marketplace
+/plugin update ai-architect@devsforge-marketplace
 
 # Update all plugins from marketplace
-/plugin marketplace update claudeforge-marketplace
+/plugin marketplace update devsforge-marketplace
 
 # Remove plugin
-/plugin remove debugger@claudeforge-marketplace
+/plugin remove debugger@devsforge-marketplace
 
 # Search for plugins
 /plugin search "security"
 /plugin search "api design"
 
 # Show plugin details
-/plugin info ai-architect@claudeforge-marketplace
+/plugin info ai-architect@devsforge-marketplace
 ```
 
 ### Using Agent Plugins
@@ -313,8 +313,8 @@ mkdir -p plugins/agents/my-agent/agents
     "name": "Your Name"
   },
   "category": "agents",
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/agents/my-agent",
-  "keywords": ["claudeforge", "agent", "my", "agent"]
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/agents/my-agent",
+  "keywords": ["devsforge", "agent", "my", "agent"]
 }
 ```
 
@@ -329,8 +329,8 @@ mkdir -p plugins/agents/my-agent/agents
   "version": "1.0.0",
   "author": { "name": "Your Name" },
   "category": "agents",
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/agents/my-agent",
-  "keywords": ["claudeforge", "agent", "my", "agent"]
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/agents/my-agent",
+  "keywords": ["devsforge", "agent", "my", "agent"]
 }
 ```
 
@@ -573,7 +573,7 @@ None. All v1.0.0 plugins remain fully compatible.
 ### Migration Notes
 
 If you installed plugins before v1.1.0:
-1. Update marketplace: `/plugin marketplace update claudeforge`
+1. Update marketplace: `/plugin marketplace update devsforge`
 2. Reinstall affected plugins to get latest versions
 3. Review new plugin categories and install relevant tools
 
@@ -581,7 +581,7 @@ If you installed plugins before v1.1.0:
 
 ### ⚠️ Disclaimer
 
-**ClaudeForge Marketplace is an independent, community-driven project:**
+**DevsForge Marketplace is an independent, community-driven project:**
 - ❌ **NOT** affiliated with Anthropic or Claude
 - ❌ **NOT** officially endorsed by Anthropic
 - ✅ **Community maintained** by open-source contributors
@@ -623,8 +623,8 @@ If you installed plugins before v1.1.0:
 
 ### Support & Community
 
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/claudeforge/marketplace/issues)
-- **Discussions**: Join conversations on [GitHub Discussions](https://github.com/claudeforge/marketplace/discussions)
+- **Issues**: Report bugs on [GitHub Issues](https://github.com/devsforge/marketplace/issues)
+- **Discussions**: Join conversations on [GitHub Discussions](https://github.com/devsforge/marketplace/discussions)
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - **Documentation**: Browse [PLUGIN_CATALOG.md](PLUGIN_CATALOG.md) for complete plugin list
 
@@ -656,6 +656,6 @@ If you installed plugins before v1.1.0:
 
 ---
 
-**ClaudeForge Marketplace** - Transforming Claude Code into the ultimate development platform.
+**DevsForge Marketplace** - Transforming Claude Code into the ultimate development platform.
 
 *Last Updated: 2026-01-13*

@@ -1,14 +1,14 @@
 {
   "name": "bundle-analyzer",
-  "description": "ClaudeForge Enterprise Bundle Analysis Architect delivering comprehensive bundle size optimization methodologies, tree shaking excellence, code splitting strategies, and dependency management frameworks that transform application performance from bloated bundles into optimized delivery systems",
+  "description": "DevsForge Enterprise Bundle Analysis Architect delivering comprehensive bundle size optimization methodologies, tree shaking excellence, code splitting strategies, and dependency management frameworks that transform application performance from bloated bundles into optimized delivery systems",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/bundle-analyzer",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/bundle-analyzer",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "development",
     "bundle",
     "optimization",

@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge API documentation generator for creating comprehensive, interactive API docs with OpenAPI/Swagger specifications.
+description: DevsForge API documentation generator for creating comprehensive, interactive API docs with OpenAPI/Swagger specifications.
 ---
 
-# ClaudeForge API Documentation Generator
+# DevsForge API Documentation Generator
 
-ClaudeForge intelligent API documentation system that automatically generates comprehensive, interactive API documentation from source code analysis with OpenAPI 3.0 specification support.
+DevsForge intelligent API documentation system that automatically generates comprehensive, interactive API documentation from source code analysis with OpenAPI 3.0 specification support.
 
 ## Purpose
 
@@ -136,17 +136,17 @@ For each endpoint:
 - `client-sdk.js` - Generated JavaScript client
 - `examples/` - Code examples in multiple languages
 
-## ClaudeForge Integration
+## DevsForge Integration
 
-**Repository URL:** https://github.com/claudeforge/marketplace/tree/main/plugins/api-docs-generator
+**Repository URL:** https://github.com/devsforge/marketplace/tree/main/plugins/api-docs-generator
 
-**ClaudeForge Standards:**
+**DevsForge Standards:**
 - Generate production-ready documentation that meets enterprise standards
 - Ensure security information is accurately documented
 - Provide clear, actionable examples for developers
-- Maintain consistency with ClaudeForge marketplace quality standards
+- Maintain consistency with DevsForge marketplace quality standards
 - Support continuous integration and automated documentation updates
 
 Your goal is to create comprehensive, accurate, and user-friendly API documentation that serves as the definitive reference for API consumers, ensuring seamless integration and developer experience.
 
-Remember: Well-documented APIs are easier to adopt, integrate, and maintain. Through ClaudeForge automated documentation generation, you create API documentation that enhances developer productivity and API adoption.
+Remember: Well-documented APIs are easier to adopt, integrate, and maintain. Through DevsForge automated documentation generation, you create API documentation that enhances developer productivity and API adoption.

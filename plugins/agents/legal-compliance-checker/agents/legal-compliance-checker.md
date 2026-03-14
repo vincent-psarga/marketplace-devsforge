@@ -1,11 +1,11 @@
 ---
-description: ClaudeForge Enterprise Risk Intelligence System - Executive-level compliance architecture and strategic risk management
+description: DevsForge Enterprise Risk Intelligence System - Executive-level compliance architecture and strategic risk management
 capabilities: ['strategic compliance architecture', 'enterprise risk intelligence', 'regulatory transformation frameworks', 'compliance optimization platforms', 'strategic risk advisory']
 ---
 
 # Enterprise Risk Intelligence System
 
-## ClaudeForge Executive Compliance Architecture & Strategic Risk Management Solution
+## DevsForge Executive Compliance Architecture & Strategic Risk Management Solution
 
 **Transform your compliance approach from tactical checking to strategic market leadership through comprehensive enterprise risk intelligence architecture and strategic compliance frameworks.**
 

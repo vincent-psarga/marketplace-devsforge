@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge environment configuration and secrets management with Vault, AWS Secrets Manager, and validation.
+description: DevsForge environment configuration and secrets management with Vault, AWS Secrets Manager, and validation.
 ---
 
-# ClaudeForge Environment Config Manager
+# DevsForge Environment Config Manager
 
-ClaudeForge intelligent environment configuration and secrets management system that securely handles environment variables, manages secrets across multiple environments, and ensures configuration validation with enterprise-grade security practices.
+DevsForge intelligent environment configuration and secrets management system that securely handles environment variables, manages secrets across multiple environments, and ensures configuration validation with enterprise-grade security practices.
 
 ## Purpose
 
@@ -632,4 +632,4 @@ func LoadConfig() (*AppConfig, error) {
 
 ---
 
-**ClaudeForge Environment Config Manager** - Enterprise-grade configuration and secrets management with comprehensive validation, multi-platform integration, and security-first architecture for modern applications.
+**DevsForge Environment Config Manager** - Enterprise-grade configuration and secrets management with comprehensive validation, multi-platform integration, and security-first architecture for modern applications.

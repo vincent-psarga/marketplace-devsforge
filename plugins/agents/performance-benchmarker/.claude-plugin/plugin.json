@@ -3,12 +3,12 @@
   "description": "Use this agent for comprehensive performance testing, profiling, and optimization recommendations. This agent specializes in measuring speed, identifying bottlenecks, and providing actionable optimization strategies for applications. Examples:\\n\\n<example>\\nContext: Application speed testing",
   "version": "1.0.0",
   "author": {
-    "name": "ClaudeForge Community",
-    "url": "https://github.com/claudeforge/marketplace"
+    "name": "DevsForge Community",
+    "url": "https://github.com/devsforge/marketplace"
   },
-  "homepage": "https://github.com/claudeforge/marketplace/tree/main/plugins/performance-benchmarker",
+  "homepage": "https://github.com/devsforge/marketplace/tree/main/plugins/performance-benchmarker",
   "keywords": [
-    "claudeforge",
+    "devsforge",
     "subagent"
   ],
   "agents": "./agents/performance-benchmarker.md"

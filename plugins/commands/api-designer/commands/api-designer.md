@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge API design specialist for RESTful APIs, GraphQL schemas, and microservice architecture.
+description: DevsForge API design specialist for RESTful APIs, GraphQL schemas, and microservice architecture.
 ---
 
-# ClaudeForge API Designer
+# DevsForge API Designer
 
-ClaudeForge intelligent API design system that creates professional, scalable, and well-documented APIs following industry best practices with automated code generation and comprehensive testing capabilities.
+DevsForge intelligent API design system that creates professional, scalable, and well-documented APIs following industry best practices with automated code generation and comprehensive testing capabilities.
 
 ## Purpose
 
@@ -212,4 +212,4 @@ export class UserResolver {
 
 ---
 
-**ClaudeForge API Designer** - Enterprise-grade API design with intelligent automation, comprehensive testing, and seamless integration capabilities.
+**DevsForge API Designer** - Enterprise-grade API design with intelligent automation, comprehensive testing, and seamless integration capabilities.

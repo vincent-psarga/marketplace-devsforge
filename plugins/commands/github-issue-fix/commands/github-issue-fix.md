@@ -1,11 +1,11 @@
 ---
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob
-description: ClaudeForge Enterprise Issue Resolution Architect delivering comprehensive GitHub issue management methodologies, systematic problem resolution frameworks, and collaborative development optimization that transforms issue management from support task into strategic business value creation and development excellence catalyst
+description: DevsForge Enterprise Issue Resolution Architect delivering comprehensive GitHub issue management methodologies, systematic problem resolution frameworks, and collaborative development optimization that transforms issue management from support task into strategic business value creation and development excellence catalyst
 ---
 
-# ClaudeForge GitHub Issue Fix
+# DevsForge GitHub Issue Fix
 
-ClaudeForge intelligent GitHub issue resolution system that transforms issue management from reactive support into strategic development optimization through systematic problem analysis, intelligent code remediation, and comprehensive quality validation.
+DevsForge intelligent GitHub issue resolution system that transforms issue management from reactive support into strategic development optimization through systematic problem analysis, intelligent code remediation, and comprehensive quality validation.
 
 ## Purpose
 
@@ -66,7 +66,7 @@ gh issue view $ISSUE_NUMBER --json title,body,labels,assignees,comments,state
 
 **1. Solution Architecture**
 ```javascript
-// ClaudeForge Resolution Strategy Engine
+// DevsForge Resolution Strategy Engine
 const resolutionStrategy = {
   // Impact Analysis
   analyzeImpact() {
@@ -103,7 +103,7 @@ const resolutionStrategy = {
 
 **1. Code Modification Strategy**
 ```bash
-# ClaudeForge Intelligent Code Resolution
+# DevsForge Intelligent Code Resolution
 # Analyze affected files
 affected_files=$(identify_relevant_files $ISSUE_CONTEXT)
 
@@ -162,7 +162,7 @@ npm run security:audit
 
 **1. Git Workflow Integration**
 ```bash
-# ClaudeForge Automated Git Integration
+# DevsForge Automated Git Integration
 # Stage changes
 git add $affected_files $test_files $documentation_files
 
@@ -226,7 +226,7 @@ $(generate_next_steps)"
 
 ### Bug Fix Optimization
 ```javascript
-// ClaudeForge Bug Resolution Framework
+// DevsForge Bug Resolution Framework
 const bugResolution = {
   // Root Cause Analysis
   analyzeRootCause() {
@@ -253,7 +253,7 @@ const bugResolution = {
 
 ### Feature Implementation Excellence
 ```javascript
-// ClaudeForge Feature Resolution Framework
+// DevsForge Feature Resolution Framework
 const featureImplementation = {
   // Requirements Analysis
   analyzeRequirements() {
@@ -279,7 +279,7 @@ const featureImplementation = {
 
 ### Performance Optimization Strategy
 ```javascript
-// ClaudeForge Performance Resolution Framework
+// DevsForge Performance Resolution Framework
 const performanceOptimization = {
   // Performance Analysis
   analyzePerformance() {
@@ -308,7 +308,7 @@ const performanceOptimization = {
 
 ### Pre-Commit Quality Gates
 ```bash
-# ClaudeForge Quality Validation Pipeline
+# DevsForge Quality Validation Pipeline
 quality_validation() {
     # Code Quality Checks
     run_linting_validation
@@ -334,7 +334,7 @@ quality_validation() {
 
 ### Automated Code Review
 ```javascript
-// ClaudeForge Code Review Automation
+// DevsForge Code Review Automation
 const codeReviewAutomation = {
   performCodeReview() {
     return {
@@ -352,14 +352,14 @@ const codeReviewAutomation = {
 
 ### CI/CD Integration
 ```yaml
-# ClaudeForge CI/CD Issue Resolution Pipeline
+# DevsForge CI/CD Issue Resolution Pipeline
 issue-resolution:
   stage: development
   trigger:
     - issue_labeled
     - issue_assigned
   script:
-    - claudeforge-issue-fix $ISSUE_NUMBER
+    - devsforge-issue-fix $ISSUE_NUMBER
     - run-quality-gates
     - create-pull-request
   quality_gates:
@@ -411,7 +411,7 @@ issue-resolution:
 
 When resolving GitHub issue: **$ARGUMENTS**
 
-Execute the ClaudeForge GitHub Issue Resolution Framework:
+Execute the DevsForge GitHub Issue Resolution Framework:
 
 1. **Issue Analysis**: Comprehensive issue understanding and context gathering
 2. **Impact Assessment**: Risk evaluation and affected component identification
@@ -422,7 +422,7 @@ Execute the ClaudeForge GitHub Issue Resolution Framework:
 7. **Communication**: Stakeholder updates and documentation
 8. **Verification**: Final validation and success metrics
 
-**ClaudeForge Strategic Impact**: Every issue resolution delivers enhanced quality, accelerated development, improved customer satisfaction, and strengthened code maintainability that transforms issue management from reactive support into strategic development excellence catalyst.
+**DevsForge Strategic Impact**: Every issue resolution delivers enhanced quality, accelerated development, improved customer satisfaction, and strengthened code maintainability that transforms issue management from reactive support into strategic development excellence catalyst.
 
 ---
 
