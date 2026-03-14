@@ -301,9 +301,7 @@ npm run lint-yaml
 - [Development Tools](https://github.com/features)
 
 ### Community
-- [DevsForge Discord](https://discord.gg/devsforge)
 - [GitHub Discussions](https://github.com/devsforge/marketplace/discussions)
-- [Community Forums](https://community.devsforge.dev)
 
 ## 🏆 Recognition
 
@@ -323,8 +321,6 @@ npm run lint-yaml
 
 ### Support Channels
 - **GitHub Issues**: [Create an issue](https://github.com/devsforge/marketplace/issues)
-- **Discord Community**: [Join our Discord](https://discord.gg/devsforge)
-- **Email**: support@devsforge.dev
 - **Documentation**: [Plugin Development Guide](docs/plugin-development.md)
 
 ### Common Questions
@@ -366,7 +362,5 @@ Together, we're building something amazing! 🚀
 If you have any questions or need assistance with your contribution, don't hesitate to reach out:
 
 - **GitHub Issues**: [Create an issue](https://github.com/devsforge/marketplace/issues)
-- **Discord**: [Join our community](https://discord.gg/devsforge)
-- **Email**: support@devsforge.dev
 
 We're here to help you succeed! 🤝

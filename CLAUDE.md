@@ -212,7 +212,6 @@ The marketplace is configured via `.claude-plugin/marketplace.json`:
   "name": "devsforge-marketplace",
   "owner": {
     "name": "DevsForge Community",
-    "email": "community@devsforge.dev",
     "url": "https://github.com/devsforge/marketplace"
   },
   "metadata": {
