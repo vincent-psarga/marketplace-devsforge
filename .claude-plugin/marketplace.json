@@ -27,7 +27,8 @@
         "agent",
         "accessibility",
         "architect"
-      ]
+      ],
+      "slug": "accessibility-architect"
     },
     {
       "name": "ai-architect",
@@ -45,7 +46,8 @@
         "ai",
         "architect",
         "automation"
-      ]
+      ],
+      "slug": "ai-architect"
     },
     {
       "name": "ai-ethics-officer",
@@ -64,7 +66,8 @@
         "ethics",
         "officer",
         "development"
-      ]
+      ],
+      "slug": "ai-ethics-officer"
     },
     {
       "name": "api-integration-architect",
@@ -83,7 +86,8 @@
         "integration",
         "architect",
         "api"
-      ]
+      ],
+      "slug": "api-integration-architect"
     },
     {
       "name": "api-quality-assurance",
@@ -103,7 +107,8 @@
         "assurance",
         "api",
         "testing"
-      ]
+      ],
+      "slug": "api-quality-assurance"
     },
     {
       "name": "authentication-specialist",
@@ -120,7 +125,8 @@
         "agent",
         "authentication",
         "specialist"
-      ]
+      ],
+      "slug": "authentication-specialist"
     },
     {
       "name": "b2b-project-shipper",
@@ -138,7 +144,8 @@
         "b2b",
         "project",
         "shipper"
-      ]
+      ],
+      "slug": "b2b-project-shipper"
     },
     {
       "name": "brand-strategist",
@@ -155,7 +162,8 @@
         "agent",
         "brand",
         "strategist"
-      ]
+      ],
+      "slug": "brand-strategist"
     },
     {
       "name": "cache-strategist",
@@ -172,7 +180,8 @@
         "agent",
         "cache",
         "strategist"
-      ]
+      ],
+      "slug": "cache-strategist"
     },
     {
       "name": "cloud-architect",
@@ -189,7 +198,8 @@
         "agent",
         "cloud",
         "architect"
-      ]
+      ],
+      "slug": "cloud-architect"
     },
     {
       "name": "code-migrator",
@@ -208,7 +218,8 @@
         "migration",
         "modernization",
         "refactoring"
-      ]
+      ],
+      "slug": "code-migrator"
     },
     {
       "name": "code-quality-expert",
@@ -227,7 +238,8 @@
         "quality",
         "expert",
         "security"
-      ]
+      ],
+      "slug": "code-quality-expert"
     },
     {
       "name": "codebase-documenter",
@@ -244,7 +256,8 @@
         "agent",
         "codebase",
         "documenter"
-      ]
+      ],
+      "slug": "codebase-documenter"
     },
     {
       "name": "compliance-automation-specialist",
@@ -262,7 +275,8 @@
         "compliance",
         "automation",
         "architect"
-      ]
+      ],
+      "slug": "compliance-automation-specialist"
     },
     {
       "name": "content-creator",
@@ -279,7 +293,8 @@
         "agent",
         "content",
         "creator"
-      ]
+      ],
+      "slug": "content-creator"
     },
     {
       "name": "cors-security-expert",
@@ -296,7 +311,8 @@
         "agent",
         "cors",
         "security"
-      ]
+      ],
+      "slug": "cors-security-expert"
     },
     {
       "name": "cost-optimizer",
@@ -313,7 +329,8 @@
         "agent",
         "cost",
         "optimizer"
-      ]
+      ],
+      "slug": "cost-optimizer"
     },
     {
       "name": "customer-success-manager",
@@ -331,7 +348,8 @@
         "customer",
         "success",
         "manager"
-      ]
+      ],
+      "slug": "customer-success-manager"
     },
     {
       "name": "data-analyst",
@@ -348,7 +366,8 @@
         "agent",
         "data",
         "analyst"
-      ]
+      ],
+      "slug": "data-analyst"
     },
     {
       "name": "data-privacy-engineer",
@@ -366,7 +385,8 @@
         "data",
         "privacy",
         "engineer"
-      ]
+      ],
+      "slug": "data-privacy-engineer"
     },
     {
       "name": "data-scientist",
@@ -383,7 +403,8 @@
         "agent",
         "data",
         "scientist"
-      ]
+      ],
+      "slug": "data-scientist"
     },
     {
       "name": "database-expert",
@@ -400,7 +421,8 @@
         "agent",
         "database",
         "expert"
-      ]
+      ],
+      "slug": "database-expert"
     },
     {
       "name": "database-performance-optimizer",
@@ -418,7 +440,8 @@
         "database",
         "performance",
         "optimizer"
-      ]
+      ],
+      "slug": "database-performance-optimizer"
     },
     {
       "name": "debugger",
@@ -434,7 +457,8 @@
         "devsforge",
         "agent",
         "debugger"
-      ]
+      ],
+      "slug": "debugger"
     },
     {
       "name": "deployment-engineer",
@@ -451,7 +475,8 @@
         "agent",
         "deployment",
         "engineer"
-      ]
+      ],
+      "slug": "deployment-engineer"
     },
     {
       "name": "desktop-app-dev",
@@ -469,7 +494,8 @@
         "desktop",
         "app",
         "dev"
-      ]
+      ],
+      "slug": "desktop-app-dev"
     },
     {
       "name": "devops-automator",
@@ -486,7 +512,8 @@
         "agent",
         "devops",
         "automator"
-      ]
+      ],
+      "slug": "devops-automator"
     },
     {
       "name": "docker-specialist",
@@ -503,7 +530,8 @@
         "agent",
         "docker",
         "specialist"
-      ]
+      ],
+      "slug": "docker-specialist"
     },
     {
       "name": "enterprise-integrator-architect",
@@ -521,7 +549,8 @@
         "enterprise",
         "integrator",
         "architect"
-      ]
+      ],
+      "slug": "enterprise-integrator-architect"
     },
     {
       "name": "enterprise-onboarding-specialist",
@@ -539,7 +568,8 @@
         "enterprise",
         "onboarding",
         "architect"
-      ]
+      ],
+      "slug": "enterprise-onboarding-specialist"
     },
     {
       "name": "enterprise-security-reviewer",
@@ -558,7 +588,8 @@
         "security",
         "reviewer",
         "security"
-      ]
+      ],
+      "slug": "enterprise-security-reviewer"
     },
     {
       "name": "error-handler",
@@ -575,7 +606,8 @@
         "agent",
         "error",
         "handler"
-      ]
+      ],
+      "slug": "error-handler"
     },
     {
       "name": "executive-quality-assurance",
@@ -594,7 +626,8 @@
         "quality",
         "assurance",
         "development"
-      ]
+      ],
+      "slug": "executive-quality-assurance"
     },
     {
       "name": "experiment-tracker",
@@ -611,7 +644,8 @@
         "agent",
         "experiment",
         "tracker"
-      ]
+      ],
+      "slug": "experiment-tracker"
     },
     {
       "name": "feedback-synthesizer",
@@ -628,7 +662,8 @@
         "agent",
         "feedback",
         "synthesizer"
-      ]
+      ],
+      "slug": "feedback-synthesizer"
     },
     {
       "name": "file-upload-specialist",
@@ -645,7 +680,8 @@
         "agent",
         "file",
         "upload"
-      ]
+      ],
+      "slug": "file-upload-specialist"
     },
     {
       "name": "finance-tracker",
@@ -662,7 +698,8 @@
         "agent",
         "finance",
         "tracker"
-      ]
+      ],
+      "slug": "finance-tracker"
     },
     {
       "name": "flutter-mobile-app-dev",
@@ -682,7 +719,8 @@
         "app",
         "dev",
         "development"
-      ]
+      ],
+      "slug": "flutter-mobile-app-dev"
     },
     {
       "name": "form-validation-expert",
@@ -699,7 +737,8 @@
         "agent",
         "form",
         "validation"
-      ]
+      ],
+      "slug": "form-validation-expert"
     },
     {
       "name": "git-workflow-expert",
@@ -716,7 +755,8 @@
         "agent",
         "git",
         "workflow"
-      ]
+      ],
+      "slug": "git-workflow-expert"
     },
     {
       "name": "graphql-specialist",
@@ -733,7 +773,8 @@
         "agent",
         "graphql",
         "specialist"
-      ]
+      ],
+      "slug": "graphql-specialist"
     },
     {
       "name": "growth-hacker",
@@ -750,7 +791,8 @@
         "agent",
         "growth",
         "hacker"
-      ]
+      ],
+      "slug": "growth-hacker"
     },
     {
       "name": "infrastructure-maintainer",
@@ -767,7 +809,8 @@
         "agent",
         "infrastructure",
         "maintainer"
-      ]
+      ],
+      "slug": "infrastructure-maintainer"
     },
     {
       "name": "iot-solutions-architect",
@@ -784,7 +827,8 @@
         "agent",
         "iot",
         "solutions"
-      ]
+      ],
+      "slug": "iot-solutions-architect"
     },
     {
       "name": "legal-advisor",
@@ -802,7 +846,8 @@
         "legal",
         "advisor",
         "documentation"
-      ]
+      ],
+      "slug": "legal-advisor"
     },
     {
       "name": "legal-compliance-checker",
@@ -820,7 +865,8 @@
         "legal",
         "compliance",
         "checker"
-      ]
+      ],
+      "slug": "legal-compliance-checker"
     },
     {
       "name": "localization-specialist",
@@ -837,7 +883,8 @@
         "agent",
         "localization",
         "specialist"
-      ]
+      ],
+      "slug": "localization-specialist"
     },
     {
       "name": "microservices-architect",
@@ -854,7 +901,8 @@
         "agent",
         "microservices",
         "architect"
-      ]
+      ],
+      "slug": "microservices-architect"
     },
     {
       "name": "mobile-app-builder",
@@ -872,7 +920,8 @@
         "mobile",
         "app",
         "builder"
-      ]
+      ],
+      "slug": "mobile-app-builder"
     },
     {
       "name": "mobile-optimization-expert",
@@ -890,7 +939,8 @@
         "mobile",
         "optimization",
         "expert"
-      ]
+      ],
+      "slug": "mobile-optimization-expert"
     },
     {
       "name": "mobile-ux-optimizer",
@@ -908,7 +958,8 @@
         "mobile",
         "ux",
         "optimizer"
-      ]
+      ],
+      "slug": "mobile-ux-optimizer"
     },
     {
       "name": "monitoring-observability-specialist",
@@ -926,7 +977,8 @@
         "monitoring",
         "observability",
         "architect"
-      ]
+      ],
+      "slug": "monitoring-observability-specialist"
     },
     {
       "name": "pagination-expert",
@@ -943,7 +995,8 @@
         "agent",
         "pagination",
         "expert"
-      ]
+      ],
+      "slug": "pagination-expert"
     },
     {
       "name": "performance-benchmarker",
@@ -961,7 +1014,8 @@
         "performance",
         "benchmarker",
         "testing"
-      ]
+      ],
+      "slug": "performance-benchmarker"
     },
     {
       "name": "planning-prd-agent",
@@ -979,7 +1033,8 @@
         "planning",
         "prd",
         "agent"
-      ]
+      ],
+      "slug": "planning-prd-agent"
     },
     {
       "name": "prd-specialist",
@@ -996,7 +1051,8 @@
         "agent",
         "prd",
         "architect"
-      ]
+      ],
+      "slug": "prd-specialist"
     },
     {
       "name": "pricing-packaging-specialist",
@@ -1014,7 +1070,8 @@
         "pricing",
         "packaging",
         "architect"
-      ]
+      ],
+      "slug": "pricing-packaging-specialist"
     },
     {
       "name": "problem-solver-specialist",
@@ -1032,7 +1089,8 @@
         "problem",
         "solver",
         "architect"
-      ]
+      ],
+      "slug": "problem-solver-specialist"
     },
     {
       "name": "product-sales-specialist",
@@ -1050,7 +1108,8 @@
         "product",
         "sales",
         "architect"
-      ]
+      ],
+      "slug": "product-sales-specialist"
     },
     {
       "name": "project-curator",
@@ -1067,7 +1126,8 @@
         "agent",
         "project",
         "curator"
-      ]
+      ],
+      "slug": "project-curator"
     },
     {
       "name": "project-shipper",
@@ -1084,7 +1144,8 @@
         "agent",
         "project",
         "shipper"
-      ]
+      ],
+      "slug": "project-shipper"
     },
     {
       "name": "python-expert",
@@ -1102,7 +1163,8 @@
         "python",
         "expert",
         "development"
-      ]
+      ],
+      "slug": "python-expert"
     },
     {
       "name": "quantum-computing-researcher",
@@ -1119,7 +1181,8 @@
         "agent",
         "quantum",
         "computing"
-      ]
+      ],
+      "slug": "quantum-computing-researcher"
     },
     {
       "name": "rapid-prototyper",
@@ -1136,7 +1199,8 @@
         "agent",
         "rapid",
         "prototyper"
-      ]
+      ],
+      "slug": "rapid-prototyper"
     },
     {
       "name": "rate-limiter",
@@ -1153,7 +1217,8 @@
         "agent",
         "rate",
         "limiter"
-      ]
+      ],
+      "slug": "rate-limiter"
     },
     {
       "name": "react-native-dev",
@@ -1172,7 +1237,8 @@
         "native",
         "dev",
         "development"
-      ]
+      ],
+      "slug": "react-native-dev"
     },
     {
       "name": "regex-master",
@@ -1189,7 +1255,8 @@
         "agent",
         "regex",
         "master"
-      ]
+      ],
+      "slug": "regex-master"
     },
     {
       "name": "release-coordinator",
@@ -1206,7 +1273,8 @@
         "agent",
         "release",
         "coordinator"
-      ]
+      ],
+      "slug": "release-coordinator"
     },
     {
       "name": "rest-api-designer",
@@ -1223,7 +1291,8 @@
         "agent",
         "rest",
         "api"
-      ]
+      ],
+      "slug": "rest-api-designer"
     },
     {
       "name": "serverless-engineer",
@@ -1240,7 +1309,8 @@
         "agent",
         "serverless",
         "engineer"
-      ]
+      ],
+      "slug": "serverless-engineer"
     },
     {
       "name": "software-architect",
@@ -1257,7 +1327,8 @@
         "agent",
         "software",
         "architect"
-      ]
+      ],
+      "slug": "software-architect"
     },
     {
       "name": "sprint-prioritizer",
@@ -1275,7 +1346,8 @@
         "sprint",
         "prioritizer",
         "development"
-      ]
+      ],
+      "slug": "sprint-prioritizer"
     },
     {
       "name": "sql-query-optimizer",
@@ -1292,7 +1364,8 @@
         "agent",
         "sql",
         "query"
-      ]
+      ],
+      "slug": "sql-query-optimizer"
     },
     {
       "name": "sre-reliability-engineer",
@@ -1309,7 +1382,8 @@
         "agent",
         "sre",
         "reliability"
-      ]
+      ],
+      "slug": "sre-reliability-engineer"
     },
     {
       "name": "studio-coach",
@@ -1326,7 +1400,8 @@
         "agent",
         "studio",
         "coach"
-      ]
+      ],
+      "slug": "studio-coach"
     },
     {
       "name": "studio-producer",
@@ -1343,7 +1418,8 @@
         "agent",
         "studio",
         "producer"
-      ]
+      ],
+      "slug": "studio-producer"
     },
     {
       "name": "support-responder",
@@ -1361,7 +1437,8 @@
         "support",
         "responder",
         "documentation"
-      ]
+      ],
+      "slug": "support-responder"
     },
     {
       "name": "system-architect",
@@ -1378,7 +1455,8 @@
         "agent",
         "system",
         "architect"
-      ]
+      ],
+      "slug": "system-architect"
     },
     {
       "name": "technical-sales-engineer",
@@ -1396,7 +1474,8 @@
         "technical",
         "sales",
         "engineer"
-      ]
+      ],
+      "slug": "technical-sales-engineer"
     },
     {
       "name": "technical-writer-pro",
@@ -1413,7 +1492,8 @@
         "agent",
         "technical",
         "writer"
-      ]
+      ],
+      "slug": "technical-writer-pro"
     },
     {
       "name": "test-results-analyzer",
@@ -1431,7 +1511,8 @@
         "test",
         "results",
         "analyzer"
-      ]
+      ],
+      "slug": "test-results-analyzer"
     },
     {
       "name": "test-writer-fixer",
@@ -1449,7 +1530,8 @@
         "test",
         "writer",
         "fixer"
-      ]
+      ],
+      "slug": "test-writer-fixer"
     },
     {
       "name": "testing-orchestrator",
@@ -1468,7 +1550,8 @@
         "automation",
         "quality",
         "assurance"
-      ]
+      ],
+      "slug": "testing-orchestrator"
     },
     {
       "name": "tool-evaluator",
@@ -1486,7 +1569,8 @@
         "tool",
         "evaluator",
         "development"
-      ]
+      ],
+      "slug": "tool-evaluator"
     },
     {
       "name": "trend-researcher",
@@ -1503,7 +1587,8 @@
         "agent",
         "trend",
         "researcher"
-      ]
+      ],
+      "slug": "trend-researcher"
     },
     {
       "name": "ui-designer",
@@ -1520,7 +1605,8 @@
         "agent",
         "ui",
         "designer"
-      ]
+      ],
+      "slug": "ui-designer"
     },
     {
       "name": "ui-ux-engineer",
@@ -1538,7 +1624,8 @@
         "ui",
         "ux",
         "engineer"
-      ]
+      ],
+      "slug": "ui-ux-engineer"
     },
     {
       "name": "unit-test-generator",
@@ -1556,7 +1643,8 @@
         "unit",
         "test",
         "generator"
-      ]
+      ],
+      "slug": "unit-test-generator"
     },
     {
       "name": "ux-researcher",
@@ -1573,7 +1661,8 @@
         "agent",
         "ux",
         "researcher"
-      ]
+      ],
+      "slug": "ux-researcher"
     },
     {
       "name": "vision-specialist",
@@ -1590,7 +1679,8 @@
         "agent",
         "vision",
         "architect"
-      ]
+      ],
+      "slug": "vision-specialist"
     },
     {
       "name": "web-dev",
@@ -1608,7 +1698,8 @@
         "web",
         "dev",
         "development"
-      ]
+      ],
+      "slug": "web-dev"
     },
     {
       "name": "webhook-integrator",
@@ -1625,7 +1716,8 @@
         "agent",
         "webhook",
         "integrator"
-      ]
+      ],
+      "slug": "webhook-integrator"
     },
     {
       "name": "workflow-optimizer",
@@ -1642,7 +1734,8 @@
         "agent",
         "workflow",
         "optimizer"
-      ]
+      ],
+      "slug": "workflow-optimizer"
     },
     {
       "name": "api-contract-tester",
@@ -1659,7 +1752,8 @@
         "command",
         "api",
         "contract"
-      ]
+      ],
+      "slug": "api-contract-tester"
     },
     {
       "name": "api-designer",
@@ -1677,7 +1771,8 @@
         "api",
         "designer",
         "api"
-      ]
+      ],
+      "slug": "api-designer"
     },
     {
       "name": "api-docs-generator",
@@ -1697,7 +1792,8 @@
         "generator",
         "api",
         "documentation"
-      ]
+      ],
+      "slug": "api-docs-generator"
     },
     {
       "name": "bundle-analyzer",
@@ -1714,7 +1810,8 @@
         "command",
         "bundle",
         "analyzer"
-      ]
+      ],
+      "slug": "bundle-analyzer"
     },
     {
       "name": "changelog-generator",
@@ -1731,7 +1828,8 @@
         "command",
         "changelog",
         "generator"
-      ]
+      ],
+      "slug": "changelog-generator"
     },
     {
       "name": "cicd-automation",
@@ -1750,7 +1848,8 @@
         "automation",
         "deployment",
         "pipeline"
-      ]
+      ],
+      "slug": "cicd-automation"
     },
     {
       "name": "code-refactorer",
@@ -1767,7 +1866,8 @@
         "command",
         "code",
         "refactorer"
-      ]
+      ],
+      "slug": "code-refactorer"
     },
     {
       "name": "code-review",
@@ -1784,7 +1884,8 @@
         "command",
         "code",
         "review"
-      ]
+      ],
+      "slug": "code-review"
     },
     {
       "name": "code-review-assistant",
@@ -1802,7 +1903,8 @@
         "code",
         "review",
         "assistant"
-      ]
+      ],
+      "slug": "code-review-assistant"
     },
     {
       "name": "codebase-analyzer",
@@ -1820,7 +1922,8 @@
         "codebase",
         "analyzer",
         "documentation"
-      ]
+      ],
+      "slug": "codebase-analyzer"
     },
     {
       "name": "console-cleaner",
@@ -1837,7 +1940,8 @@
         "command",
         "console",
         "cleaner"
-      ]
+      ],
+      "slug": "console-cleaner"
     },
     {
       "name": "create-worktrees",
@@ -1855,7 +1959,8 @@
         "create",
         "worktrees",
         "development"
-      ]
+      ],
+      "slug": "create-worktrees"
     },
     {
       "name": "debug-detective",
@@ -1872,7 +1977,8 @@
         "command",
         "debug",
         "detective"
-      ]
+      ],
+      "slug": "debug-detective"
     },
     {
       "name": "debug-session",
@@ -1889,7 +1995,8 @@
         "command",
         "debug",
         "session"
-      ]
+      ],
+      "slug": "debug-session"
     },
     {
       "name": "decision-facilitator",
@@ -1906,7 +2013,8 @@
         "command",
         "decision",
         "facilitator"
-      ]
+      ],
+      "slug": "decision-facilitator"
     },
     {
       "name": "dependency-manager",
@@ -1925,7 +2033,8 @@
         "management",
         "security",
         "optimization"
-      ]
+      ],
+      "slug": "dependency-manager"
     },
     {
       "name": "desktop-integrator",
@@ -1942,7 +2051,8 @@
         "command",
         "desktop",
         "integrator"
-      ]
+      ],
+      "slug": "desktop-integrator"
     },
     {
       "name": "doc-generator",
@@ -1961,7 +2071,8 @@
         "generator",
         "api",
         "documentation"
-      ]
+      ],
+      "slug": "doc-generator"
     },
     {
       "name": "docker-compose-generator",
@@ -1978,7 +2089,8 @@
         "command",
         "docker",
         "compose"
-      ]
+      ],
+      "slug": "docker-compose-generator"
     },
     {
       "name": "env-config-manager",
@@ -1995,7 +2107,8 @@
         "command",
         "env",
         "config"
-      ]
+      ],
+      "slug": "env-config-manager"
     },
     {
       "name": "env-validator",
@@ -2012,7 +2125,8 @@
         "command",
         "env",
         "validator"
-      ]
+      ],
+      "slug": "env-validator"
     },
     {
       "name": "feature-flag-manager",
@@ -2029,7 +2143,8 @@
         "command",
         "feature",
         "flag"
-      ]
+      ],
+      "slug": "feature-flag-manager"
     },
     {
       "name": "fix-github-issue",
@@ -2047,7 +2162,8 @@
         "fix",
         "github",
         "issue"
-      ]
+      ],
+      "slug": "fix-github-issue"
     },
     {
       "name": "fix-issue",
@@ -2065,7 +2181,8 @@
         "fix",
         "issue",
         "testing"
-      ]
+      ],
+      "slug": "fix-issue"
     },
     {
       "name": "fix-pr",
@@ -2082,7 +2199,8 @@
         "command",
         "fix",
         "pr"
-      ]
+      ],
+      "slug": "fix-pr"
     },
     {
       "name": "git-commit-helper",
@@ -2099,7 +2217,8 @@
         "command",
         "git",
         "commit"
-      ]
+      ],
+      "slug": "git-commit-helper"
     },
     {
       "name": "git-guardian",
@@ -2116,7 +2235,8 @@
         "command",
         "git",
         "guardian"
-      ]
+      ],
+      "slug": "git-guardian"
     },
     {
       "name": "github-issue-fix",
@@ -2134,7 +2254,8 @@
         "github",
         "issue",
         "fix"
-      ]
+      ],
+      "slug": "github-issue-fix"
     },
     {
       "name": "hotfix-deployer",
@@ -2151,7 +2272,8 @@
         "command",
         "hotfix",
         "deployer"
-      ]
+      ],
+      "slug": "hotfix-deployer"
     },
     {
       "name": "htaccess-generator",
@@ -2168,7 +2290,8 @@
         "command",
         "htaccess",
         "generator"
-      ]
+      ],
+      "slug": "htaccess-generator"
     },
     {
       "name": "import-organizer",
@@ -2185,7 +2308,8 @@
         "command",
         "import",
         "organizer"
-      ]
+      ],
+      "slug": "import-organizer"
     },
     {
       "name": "incident-reporter",
@@ -2202,7 +2326,8 @@
         "command",
         "incident",
         "reporter"
-      ]
+      ],
+      "slug": "incident-reporter"
     },
     {
       "name": "intelligent-commit",
@@ -2219,7 +2344,8 @@
         "command",
         "intelligent",
         "commit"
-      ]
+      ],
+      "slug": "intelligent-commit"
     },
     {
       "name": "issue-analyzer",
@@ -2236,7 +2362,8 @@
         "command",
         "issue",
         "analyzer"
-      ]
+      ],
+      "slug": "issue-analyzer"
     },
     {
       "name": "json-validator",
@@ -2253,7 +2380,8 @@
         "command",
         "json",
         "validator"
-      ]
+      ],
+      "slug": "json-validator"
     },
     {
       "name": "license-compliance",
@@ -2270,7 +2398,8 @@
         "command",
         "license",
         "compliance"
-      ]
+      ],
+      "slug": "license-compliance"
     },
     {
       "name": "migration-helper",
@@ -2287,7 +2416,8 @@
         "command",
         "migration",
         "helper"
-      ]
+      ],
+      "slug": "migration-helper"
     },
     {
       "name": "mock-data-generator",
@@ -2304,7 +2434,8 @@
         "command",
         "mock",
         "data"
-      ]
+      ],
+      "slug": "mock-data-generator"
     },
     {
       "name": "nginx-config-generator",
@@ -2321,7 +2452,8 @@
         "command",
         "nginx",
         "config"
-      ]
+      ],
+      "slug": "nginx-config-generator"
     },
     {
       "name": "openapi-expert",
@@ -2338,7 +2470,8 @@
         "command",
         "openapi",
         "expert"
-      ]
+      ],
+      "slug": "openapi-expert"
     },
     {
       "name": "package-updater",
@@ -2355,7 +2488,8 @@
         "command",
         "package",
         "updater"
-      ]
+      ],
+      "slug": "package-updater"
     },
     {
       "name": "performance-optimizer",
@@ -2372,7 +2506,8 @@
         "command",
         "performance",
         "optimizer"
-      ]
+      ],
+      "slug": "performance-optimizer"
     },
     {
       "name": "performance-profiler",
@@ -2391,7 +2526,8 @@
         "profiling",
         "optimization",
         "monitoring"
-      ]
+      ],
+      "slug": "performance-profiler"
     },
     {
       "name": "pr-creator",
@@ -2408,7 +2544,8 @@
         "command",
         "pr",
         "creator"
-      ]
+      ],
+      "slug": "pr-creator"
     },
     {
       "name": "pr-resolver",
@@ -2425,7 +2562,8 @@
         "command",
         "pr",
         "resolver"
-      ]
+      ],
+      "slug": "pr-resolver"
     },
     {
       "name": "pr-reviewer",
@@ -2442,7 +2580,8 @@
         "command",
         "pr",
         "reviewer"
-      ]
+      ],
+      "slug": "pr-reviewer"
     },
     {
       "name": "prompt-optimizer",
@@ -2459,7 +2598,8 @@
         "command",
         "prompt",
         "optimizer"
-      ]
+      ],
+      "slug": "prompt-optimizer"
     },
     {
       "name": "pull-request-generator",
@@ -2477,7 +2617,8 @@
         "pull",
         "request",
         "generator"
-      ]
+      ],
+      "slug": "pull-request-generator"
     },
     {
       "name": "quality-validator",
@@ -2494,7 +2635,8 @@
         "command",
         "quality",
         "validator"
-      ]
+      ],
+      "slug": "quality-validator"
     },
     {
       "name": "quick-fix",
@@ -2511,7 +2653,8 @@
         "command",
         "quick",
         "fix"
-      ]
+      ],
+      "slug": "quick-fix"
     },
     {
       "name": "regex-tester",
@@ -2528,7 +2671,8 @@
         "command",
         "regex",
         "tester"
-      ]
+      ],
+      "slug": "regex-tester"
     },
     {
       "name": "robots-txt-generator",
@@ -2545,7 +2689,8 @@
         "command",
         "robots",
         "txt"
-      ]
+      ],
+      "slug": "robots-txt-generator"
     },
     {
       "name": "schema-generator",
@@ -2562,7 +2707,8 @@
         "command",
         "schema",
         "generator"
-      ]
+      ],
+      "slug": "schema-generator"
     },
     {
       "name": "security-auditor",
@@ -2580,7 +2726,8 @@
         "security",
         "auditor",
         "security"
-      ]
+      ],
+      "slug": "security-auditor"
     },
     {
       "name": "security-scanner",
@@ -2598,7 +2745,8 @@
         "security",
         "scanner",
         "security"
-      ]
+      ],
+      "slug": "security-scanner"
     },
     {
       "name": "smart-commit",
@@ -2615,7 +2763,8 @@
         "command",
         "smart",
         "commit"
-      ]
+      ],
+      "slug": "smart-commit"
     },
     {
       "name": "sql-formatter",
@@ -2632,7 +2781,8 @@
         "command",
         "sql",
         "formatter"
-      ]
+      ],
+      "slug": "sql-formatter"
     },
     {
       "name": "strategic-planner",
@@ -2649,7 +2799,8 @@
         "command",
         "strategic",
         "planner"
-      ]
+      ],
+      "slug": "strategic-planner"
     },
     {
       "name": "strategic-thinker",
@@ -2666,7 +2817,8 @@
         "command",
         "strategic",
         "thinker"
-      ]
+      ],
+      "slug": "strategic-thinker"
     },
     {
       "name": "system-explorer",
@@ -2683,7 +2835,8 @@
         "command",
         "system",
         "explorer"
-      ]
+      ],
+      "slug": "system-explorer"
     },
     {
       "name": "test-generator",
@@ -2700,7 +2853,8 @@
         "command",
         "test",
         "generator"
-      ]
+      ],
+      "slug": "test-generator"
     },
     {
       "name": "type-generator",
@@ -2717,7 +2871,8 @@
         "command",
         "type",
         "generator"
-      ]
+      ],
+      "slug": "type-generator"
     },
     {
       "name": "unused-code-finder",
@@ -2734,7 +2889,8 @@
         "command",
         "unused",
         "code"
-      ]
+      ],
+      "slug": "unused-code-finder"
     },
     {
       "name": "update-branch-name",
@@ -2752,7 +2908,8 @@
         "update",
         "branch",
         "name"
-      ]
+      ],
+      "slug": "update-branch-name"
     },
     {
       "name": "update-claudemd",
@@ -2769,7 +2926,8 @@
         "command",
         "update",
         "claudemd"
-      ]
+      ],
+      "slug": "update-claudemd"
     },
     {
       "name": "ai-studio-orchestrator",
@@ -2821,7 +2979,8 @@
           ]
         }
       },
-      "strict": false
+      "strict": false,
+      "slug": "ai-studio-orchestrator"
     },
     {
       "name": "devops-platform",
@@ -2873,7 +3032,8 @@
           ]
         }
       },
-      "strict": false
+      "strict": false,
+      "slug": "devops-platform"
     },
     {
       "name": "enterprise-workspace",
@@ -2925,7 +3085,19 @@
           ]
         }
       },
-      "strict": false
+      "strict": false,
+      "slug": "enterprise-workspace"
+    },
+    {
+      "slug": "another-new-package",
+      "name": "another-new-package",
+      "version": "0.1.0",
+      "description": "Packmind - space @global",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/vincent-psarga/marketplace-devsforge.git",
+        "path": "plugins/another-new-package"
+      }
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "plugins": {
+    "another-new-package": {
+      "version": "0.1.0",
+      "contentHash": "b6f97367c242bc3b9758b644e2b31466f7303e78035cf83060a3cbb93c7f69ab",
+      "lastPublishedAt": "2026-08-12T07:16:27.440Z",
+      "lastPublishedBy": "22f916a6-7c9d-4212-a3d1-53ee49ff09f3"
+    }
+  }
+}
