@@ -3098,6 +3098,17 @@
         "url": "https://github.com/vincent-psarga/marketplace-devsforge.git",
         "path": "plugins/another-new-package"
       }
+    },
+    {
+      "slug": "new-package-3",
+      "name": "new-package-3",
+      "version": "0.1.0",
+      "description": "Packmind - space @global",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/vincent-psarga/marketplace-devsforge.git",
+        "path": "plugins/new-package-3"
+      }
     }
   ]
 }
